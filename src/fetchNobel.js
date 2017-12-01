@@ -4,7 +4,7 @@ const fs = require('fs');
 const countries = require('i18n-iso-countries');
 
 
-const writer = csvWriter({ headers: ['year', 'country', 'city', 'category', 'firstname', 'surname', 'gender'] });
+const writer = csvWriter({ headers: ['id', 'year', 'country', 'city', 'category', 'firstname', 'surname', 'gender'] });
 
 /**
 function openDatabaseConnection(context) {
@@ -37,6 +37,7 @@ function createCSV(context) {
   console.log('Creating CSV');
   return new Promise((resolve) => {
     writer.pipe(fs.createWriteStream('out.csv'));
+    let id = 0;
     for (const i in context.laureates) {
       if (context.laureates[i].born === '0000-00-00') {
         console.log(`Skiping n°${i}`);
@@ -48,6 +49,7 @@ function createCSV(context) {
       const gender = context.laureates[i].gender;
 
       for (const j in context.laureates[i].prizes) {
+        id++;
         const year = context.laureates[i].prizes[j].year;
         const category = context.laureates[i].prizes[j].category;
         let country;
@@ -58,7 +60,7 @@ function createCSV(context) {
         }
         const city = context.laureates[i].prizes[j].affiliations[0].city;
 
-        writer.write([year, country, city, category, firstname, surname, gender]);
+        writer.write([id, year, country, city, category, firstname, surname, gender]);
       }
     }
     writer.end();

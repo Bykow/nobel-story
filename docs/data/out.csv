@@ -1,892 +1,892 @@
-year,country,city,category,firstname,surname,gender
-1901,DEU,Munich,physics,Wilhelm Conrad,Röntgen,male
-1902,,Leiden,physics,Hendrik Antoon,Lorentz,male
-1902,,Amsterdam,physics,Pieter,Zeeman,male
-1903,FRA,Paris,physics,Antoine Henri,Becquerel,male
-1903,FRA,Paris,physics,Pierre,Curie,male
-1903,,,physics,Marie,"Curie, née Sklodowska",female
-1911,FRA,Paris,chemistry,Marie,"Curie, née Sklodowska",female
-1904,GBR,London,physics,Lord Rayleigh,(John William Strutt),male
-1905,DEU,Kiel,physics,Philipp Eduard Anton,von Lenard,male
-1906,GBR,Cambridge,physics,Joseph John,Thomson,male
-1907,USA,"Chicago, IL",physics,Albert Abraham,Michelson,male
-1908,FRA,Paris,physics,Gabriel,Lippmann,male
-1909,GBR,London,physics,Guglielmo,Marconi,male
-1909,,Strasbourg,physics,Karl Ferdinand,Braun,male
-1910,,Amsterdam,physics,Johannes Diderik,van der Waals,male
-1911,DEU,Würzburg,physics,Wilhelm,Wien,male
-1912,SWE,Lidingö-Stockholm,physics,Nils Gustaf,Dalén,male
-1913,,Leiden,physics,Heike,Kamerlingh Onnes,male
-1914,DEU,Frankfurt-on-the-Main,physics,Max,von Laue,male
-1915,GBR,London,physics,Sir William Henry,Bragg,male
-1915,GBR,Manchester,physics,William Lawrence,Bragg,male
-1917,GBR,Edinburgh,physics,Charles Glover,Barkla,male
-1918,DEU,Berlin,physics,Max Karl Ernst Ludwig,Planck,male
-1919,DEU,Greifswald,physics,Johannes,Stark,male
-1920,FRA,Sèvres,physics,Charles Edouard,Guillaume,male
-1921,DEU,Berlin,physics,Albert,Einstein,male
-1922,DNK,Copenhagen,physics,Niels Henrik David,Bohr,male
-1923,USA,"Pasadena, CA",physics,Robert Andrews,Millikan,male
-1924,SWE,Uppsala,physics,Karl Manne Georg,Siegbahn,male
-1925,DEU,Göttingen,physics,James,Franck,male
-1925,DEU,Halle,physics,Gustav Ludwig,Hertz,male
-1926,FRA,Paris,physics,Jean Baptiste,Perrin,male
-1927,USA,"Chicago, IL",physics,Arthur Holly,Compton,male
-1927,GBR,Cambridge,physics,Charles Thomson Rees,Wilson,male
-1928,GBR,London,physics,Owen Willans,Richardson,male
-1929,FRA,Paris,physics,Prince Louis-Victor Pierre Raymond,de Broglie,male
-1930,IND,Calcutta,physics,Sir Chandrasekhara Venkata,Raman,male
-1932,DEU,Leipzig,physics,Werner Karl,Heisenberg,male
-1933,DEU,Berlin,physics,Erwin,Schrödinger,male
-1933,GBR,Cambridge,physics,Paul Adrien Maurice,Dirac,male
-1935,GBR,Liverpool,physics,James,Chadwick,male
-1936,AUT,Innsbruck,physics,Victor Franz,Hess,male
-1936,USA,"Pasadena, CA",physics,Carl David,Anderson,male
-1937,USA,"New York, NY",physics,Clinton Joseph,Davisson,male
-1937,GBR,London,physics,George Paget,Thomson,male
-1938,ITA,Rome,physics,Enrico,Fermi,male
-1939,USA,"Berkeley, CA",physics,Ernest Orlando,Lawrence,male
-1943,USA,"Pittsburgh, PA",physics,Otto,Stern,male
-1944,USA,"New York, NY",physics,Isidor Isaac,Rabi,male
-1945,USA,"Princeton, NJ",physics,Wolfgang,Pauli,male
-1946,USA,"Cambridge, MA",physics,Percy Williams,Bridgman,male
-1947,GBR,London,physics,Sir Edward Victor,Appleton,male
-1948,GBR,Manchester,physics,Patrick Maynard Stuart,Blackett,male
-1949,JPN,Kyoto,physics,Hideki,Yukawa,male
-1950,GBR,Bristol,physics,Cecil Frank,Powell,male
-1951,GBR,"Harwell, Berkshire",physics,Sir John Douglas,Cockcroft,male
-1951,IRL,Dublin,physics,Ernest Thomas Sinton,Walton,male
-1952,USA,"Stanford, CA",physics,Felix,Bloch,male
-1952,USA,"Cambridge, MA",physics,Edward Mills,Purcell,male
-1953,,Groningen,physics,Frits,Zernike,male
-1954,GBR,Edinburgh,physics,Max,Born,male
-1954,,Heidelberg,physics,Walther,Bothe,male
-1955,USA,"Stanford, CA",physics,Willis Eugene,Lamb,male
-1955,USA,"New York, NY",physics,Polykarp,Kusch,male
-1956,USA,"Mountain View, CA",physics,William Bradford,Shockley,male
-1956,USA,"Urbana, IL",physics,John,Bardeen,male
-1972,USA,"Urbana, IL",physics,John,Bardeen,male
-1956,USA,"Murray Hill, NJ",physics,Walter Houser,Brattain,male
-1957,USA,"Princeton, NJ",physics,Chen Ning,Yang,male
-1957,USA,"New York, NY",physics,Tsung-Dao (T.D.),Lee,male
-1958,,Moscow,physics,Pavel Alekseyevich,Cherenkov,male
-1958,,Moscow,physics,Igor Yevgenyevich,Tamm,male
-1959,USA,"Berkeley, CA",physics,Emilio Gino,Segrè,male
-1959,USA,"Berkeley, CA",physics,Owen,Chamberlain,male
-1960,USA,"Berkeley, CA",physics,Donald Arthur,Glaser,male
-1961,USA,"Stanford, CA",physics,Robert,Hofstadter,male
-1961,,Munich,physics,Rudolf Ludwig,Mössbauer,male
-1962,,Moscow,physics,Lev Davidovich,Landau,male
-1963,USA,"Princeton, NJ",physics,Eugene Paul,Wigner,male
-1963,USA,"San Diego, CA",physics,Maria,Goeppert Mayer,female
-1963,,Heidelberg,physics,J. Hans D.,Jensen,male
-1964,USA,"Cambridge, MA",physics,Charles Hard,Townes,male
-1964,,Moscow,physics,Nicolay Gennadiyevich,Basov,male
-1964,,Moscow,physics,Aleksandr Mikhailovich,Prokhorov,male
-1965,JPN,Tokyo,physics,Sin-Itiro,Tomonaga,male
-1965,USA,"Cambridge, MA",physics,Julian,Schwinger,male
-1965,USA,"Pasadena, CA",physics,Richard P.,Feynman,male
-1966,FRA,Paris,physics,Alfred,Kastler,male
-1967,USA,"Ithaca, NY",physics,Hans Albrecht,Bethe,male
-1968,USA,"Berkeley, CA",physics,Luis Walter,Alvarez,male
-1969,USA,"Pasadena, CA",physics,Murray,Gell-Mann,male
-1970,SWE,Stockholm,physics,Hannes Olof Gösta,Alfvén,male
-1970,FRA,Grenoble,physics,Louis Eugène Félix,Néel,male
-1971,GBR,London,physics,Dennis,Gabor,male
-1972,USA,"Providence, RI",physics,Leon Neil,Cooper,male
-1972,USA,"Philadelphia, PA",physics,John Robert,Schrieffer,male
-1973,USA,"Yorktown Heights, NY",physics,Leo,Esaki,male
-1973,USA,"Schenectady, NY",physics,Ivar,Giaever,male
-1973,GBR,Cambridge,physics,Brian David,Josephson,male
-1974,GBR,Cambridge,physics,Sir Martin,Ryle,male
-1974,GBR,Cambridge,physics,Antony,Hewish,male
-1975,DNK,Copenhagen,physics,Aage Niels,Bohr,male
-1975,DNK,Copenhagen,physics,Ben Roy,Mottelson,male
-1975,USA,"New York, NY",physics,Leo James,Rainwater,male
-1976,USA,"Stanford, CA",physics,Burton,Richter,male
-1976,USA,"Cambridge, MA",physics,Samuel Chao Chung,Ting,male
-1977,USA,"Murray Hill, NJ",physics,Philip Warren,Anderson,male
-1977,GBR,Cambridge,physics,Sir Nevill Francis,Mott,male
-1977,USA,"Cambridge, MA",physics,John Hasbrouck,van Vleck,male
-1978,,Moscow,physics,Pyotr Leonidovich,Kapitsa,male
-1978,USA,"Holmdel, NJ",physics,Arno Allan,Penzias,male
-1978,USA,"Holmdel, NJ",physics,Robert Woodrow,Wilson,male
-1979,USA,"Cambridge, MA",physics,Sheldon Lee,Glashow,male
-1979,ITA,Trieste,physics,Abdus,Salam,male
-1979,USA,"Cambridge, MA",physics,Steven,Weinberg,male
-1980,USA,"Chicago, IL",physics,James Watson,Cronin,male
-1980,USA,"Princeton, NJ",physics,Val Logsdon,Fitch,male
-1981,USA,"Cambridge, MA",physics,Nicolaas,Bloembergen,male
-1981,USA,"Stanford, CA",physics,Arthur Leonard,Schawlow,male
-1981,SWE,Uppsala,physics,Kai M.,Siegbahn,male
-1982,USA,"Ithaca, NY",physics,Kenneth G.,Wilson,male
-1983,USA,"Chicago, IL",physics,Subramanyan,Chandrasekhar,male
-1983,USA,"Pasadena, CA",physics,William Alfred,Fowler,male
-1984,CHE,Geneva,physics,Carlo,Rubbia,male
-1984,CHE,Geneva,physics,Simon,van der Meer,male
-1985,,Stuttgart,physics,Klaus,von Klitzing,male
-1986,,Berlin,physics,Ernst,Ruska,male
-1986,CHE,Rüschlikon,physics,Gerd,Binnig,male
-1986,CHE,Rüschlikon,physics,Heinrich,Rohrer,male
-1987,CHE,Rüschlikon,physics,J. Georg,Bednorz,male
-1987,CHE,Rüschlikon,physics,K. Alexander,Müller,male
-1988,USA,"Batavia, IL",physics,Leon M.,Lederman,male
-1988,USA,"Mountain View, CA",physics,Melvin,Schwartz,male
-1988,CHE,Geneva,physics,Jack,Steinberger,male
-1989,USA,"Cambridge, MA",physics,Norman F.,Ramsey,male
-1989,USA,"Seattle, WA",physics,Hans G.,Dehmelt,male
-1989,,Bonn,physics,Wolfgang,Paul,male
-1990,USA,"Cambridge, MA",physics,Jerome I.,Friedman,male
-1990,USA,"Cambridge, MA",physics,Henry W.,Kendall,male
-1990,USA,"Stanford, CA",physics,Richard E.,Taylor,male
-1991,FRA,Paris,physics,Pierre-Gilles,de Gennes,male
-1992,FRA,Paris,physics,Georges,Charpak,male
-1993,USA,"Princeton, NJ",physics,Russell A.,Hulse,male
-1993,USA,"Princeton, NJ",physics,Joseph H.,Taylor Jr.,male
-1994,CAN,"Hamilton, Ontario",physics,Bertram N.,Brockhouse,male
-1994,USA,"Cambridge, MA",physics,Clifford G.,Shull,male
-1995,USA,"Stanford, CA",physics,Martin L.,Perl,male
-1995,USA,"Irvine, CA",physics,Frederick,Reines,male
-1996,USA,"Ithaca, NY",physics,David M.,Lee,male
-1996,USA,"Stanford, CA",physics,Douglas D.,Osheroff,male
-1996,USA,"Ithaca, NY",physics,Robert C.,Richardson,male
-1997,USA,"Stanford, CA",physics,Steven,Chu,male
-1997,FRA,Paris,physics,Claude,Cohen-Tannoudji,male
-1997,USA,"Gaithersburg, MD",physics,William D.,Phillips,male
-1998,USA,"Stanford, CA",physics,Robert B.,Laughlin,male
-1998,USA,"New York, NY",physics,Horst L.,Störmer,male
-1998,USA,"Princeton, NJ",physics,Daniel C.,Tsui,male
-1999,,Utrecht,physics,Gerardus,'t Hooft,male
-1999,,Bilthoven,physics,Martinus J.G.,Veltman,male
-1901,DEU,Berlin,chemistry,Jacobus Henricus,van 't Hoff,male
-1902,DEU,Berlin,chemistry,Hermann Emil,Fischer,male
-1903,SWE,Stockholm,chemistry,Svante August,Arrhenius,male
-1904,GBR,London,chemistry,Sir William,Ramsay,male
-1905,DEU,Munich,chemistry,Johann Friedrich Wilhelm Adolf,von Baeyer,male
-1906,FRA,Paris,chemistry,Henri,Moissan,male
-1907,DEU,Berlin,chemistry,Eduard,Buchner,male
-1908,GBR,Manchester,chemistry,Ernest,Rutherford,male
-1909,DEU,Leipzig,chemistry,Wilhelm,Ostwald,male
-1910,DEU,Göttingen,chemistry,Otto,Wallach,male
-1912,FRA,Nancy,chemistry,Victor,Grignard,male
-1912,FRA,Toulouse,chemistry,Paul,Sabatier,male
-1913,CHE,Zurich,chemistry,Alfred,Werner,male
-1914,USA,"Cambridge, MA",chemistry,Theodore William,Richards,male
-1915,DEU,Munich,chemistry,Richard Martin,Willstätter,male
-1918,DEU,Berlin-Dahlem,chemistry,Fritz,Haber,male
-1920,DEU,Berlin,chemistry,Walther Hermann,Nernst,male
-1921,GBR,Oxford,chemistry,Frederick,Soddy,male
-1922,GBR,Cambridge,chemistry,Francis William,Aston,male
-1923,AUT,Graz,chemistry,Fritz,Pregl,male
-1925,DEU,Göttingen,chemistry,Richard Adolf,Zsigmondy,male
-1926,SWE,Uppsala,chemistry,The (Theodor),Svedberg,male
-1927,DEU,Munich,chemistry,Heinrich Otto,Wieland,male
-1928,DEU,Göttingen,chemistry,Adolf Otto Reinhold,Windaus,male
-1929,GBR,London,chemistry,Arthur,Harden,male
-1929,SWE,Stockholm,chemistry,Hans Karl August Simon,von Euler-Chelpin,male
-1930,DEU,Munich,chemistry,Hans,Fischer,male
-1931,DEU,Heidelberg,chemistry,Carl,Bosch,male
-1931,DEU,Heidelberg,chemistry,Friedrich,Bergius,male
-1932,USA,"Schenectady, NY",chemistry,Irving,Langmuir,male
-1934,USA,"New York, NY",chemistry,Harold Clayton,Urey,male
-1935,FRA,Paris,chemistry,Frédéric,Joliot,male
-1935,FRA,Paris,chemistry,Irène,Joliot-Curie,female
-1936,DEU,Berlin,chemistry,Petrus (Peter) Josephus Wilhelmus,Debye,male
-1937,GBR,Birmingham,chemistry,Walter Norman,Haworth,male
-1937,CHE,Zurich,chemistry,Paul,Karrer,male
-1938,DEU,Heidelberg,chemistry,Richard,Kuhn,male
-1939,DEU,Berlin-Dahlem,chemistry,Adolf Friedrich Johann,Butenandt,male
-1939,CHE,Zurich,chemistry,Leopold,Ruzicka,male
-1943,SWE,Stockholm,chemistry,George,de Hevesy,male
-1944,DEU,Berlin-Dahlem,chemistry,Otto,Hahn,male
-1945,FIN,Helsinki,chemistry,Artturi Ilmari,Virtanen,male
-1946,USA,"Ithaca, NY",chemistry,James Batcheller,Sumner,male
-1946,USA,"Princeton, NJ",chemistry,John Howard,Northrop,male
-1946,USA,"Princeton, NJ",chemistry,Wendell Meredith,Stanley,male
-1947,GBR,Oxford,chemistry,Sir Robert,Robinson,male
-1948,SWE,Uppsala,chemistry,Arne Wilhelm Kaurin,Tiselius,male
-1949,USA,"Berkeley, CA",chemistry,William Francis,Giauque,male
-1950,,Kiel,chemistry,Otto Paul Hermann,Diels,male
-1950,,Cologne,chemistry,Kurt,Alder,male
-1951,USA,"Berkeley, CA",chemistry,Edwin Mattison,McMillan,male
-1951,USA,"Berkeley, CA",chemistry,Glenn Theodore,Seaborg,male
-1952,GBR,London,chemistry,Archer John Porter,Martin,male
-1952,GBR,Bucksburn (Scotland),chemistry,Richard Laurence Millington,Synge,male
-1953,,Breisgau,chemistry,Hermann,Staudinger,male
-1954,USA,"Pasadena, CA",chemistry,Linus Carl,Pauling,male
-1962,USA,"Pasadena, CA",peace,Linus Carl,Pauling,male
-1955,USA,"Ithaca, NY",chemistry,Vincent,du Vigneaud,male
-1956,GBR,Oxford,chemistry,Sir Cyril Norman,Hinshelwood,male
-1956,,Moscow,chemistry,Nikolay Nikolaevich,Semenov,male
-1957,GBR,Cambridge,chemistry,Lord (Alexander R.),Todd,male
-1958,GBR,Cambridge,chemistry,Frederick,Sanger,male
-1980,GBR,Cambridge,chemistry,Frederick,Sanger,male
-1959,,Prague,chemistry,Jaroslav,Heyrovsky,male
-1960,USA,"Los Angeles, CA",chemistry,Willard Frank,Libby,male
-1961,USA,"Berkeley, CA",chemistry,Melvin,Calvin,male
-1962,GBR,Cambridge,chemistry,Max Ferdinand,Perutz,male
-1962,GBR,Cambridge,chemistry,John Cowdery,Kendrew,male
-1963,,Mülheim/Ruhr,chemistry,Karl,Ziegler,male
-1963,ITA,Milan,chemistry,Giulio,Natta,male
-1964,GBR,Oxford,chemistry,Dorothy Crowfoot,Hodgkin,female
-1965,USA,"Cambridge, MA",chemistry,Robert Burns,Woodward,male
-1966,USA,"Chicago, IL",chemistry,Robert S.,Mulliken,male
-1967,,Göttingen,chemistry,Manfred,Eigen,male
-1967,GBR,Cambridge,chemistry,Ronald George Wreyford,Norrish,male
-1967,GBR,London,chemistry,George,Porter,male
-1968,USA,"New Haven, CT",chemistry,Lars,Onsager,male
-1969,GBR,London,chemistry,Derek H. R.,Barton,male
-1969,NOR,Oslo,chemistry,Odd,Hassel,male
-1970,ARG,Buenos Aires,chemistry,Luis F.,Leloir,male
-1971,CAN,Ottawa,chemistry,Gerhard,Herzberg,male
-1972,USA,"Bethesda, MD",chemistry,Christian B.,Anfinsen,male
-1972,USA,"New York, NY",chemistry,Stanford,Moore,male
-1972,USA,"New York, NY",chemistry,William H.,Stein,male
-1973,,Munich,chemistry,Ernst Otto,Fischer,male
-1973,GBR,London,chemistry,Geoffrey,Wilkinson,male
-1974,USA,"Stanford, CA",chemistry,Paul J.,Flory,male
-1975,GBR,Brighton,chemistry,John Warcup,Cornforth,male
-1975,CHE,Zurich,chemistry,Vladimir,Prelog,male
-1976,USA,"Cambridge, MA",chemistry,William N.,Lipscomb,male
-1977,BEL,Brussels,chemistry,Ilya,Prigogine,male
-1978,GBR,Bodmin,chemistry,Peter D.,Mitchell,male
-1979,USA,"West Lafayette, IN",chemistry,Herbert C.,Brown,male
-1979,,Heidelberg,chemistry,Georg,Wittig,male
-1980,USA,"Stanford, CA",chemistry,Paul,Berg,male
-1980,USA,"Cambridge, MA",chemistry,Walter,Gilbert,male
-1981,JPN,Kyoto,chemistry,Kenichi,Fukui,male
-1981,USA,"Ithaca, NY",chemistry,Roald,Hoffmann,male
-1982,GBR,Cambridge,chemistry,Aaron,Klug,male
-1983,USA,"Stanford, CA",chemistry,Henry,Taube,male
-1984,USA,"New York, NY",chemistry,Robert Bruce,Merrifield,male
-1985,USA,"Buffalo, NY",chemistry,Herbert A.,Hauptman,male
-1985,USA,"Washington, DC",chemistry,Jerome,Karle,male
-1986,USA,"Cambridge, MA",chemistry,Dudley R.,Herschbach,male
-1986,USA,"Berkeley, CA",chemistry,Yuan T.,Lee,male
-1986,CAN,Toronto,chemistry,John C.,Polanyi,male
-1987,USA,"Los Angeles, CA",chemistry,Donald J.,Cram,male
-1987,FRA,Strasbourg,chemistry,Jean-Marie,Lehn,male
-1987,USA,"Wilmington, DE",chemistry,Charles J.,Pedersen,male
-1988,USA,"Dallas, TX",chemistry,Johann,Deisenhofer,male
-1988,,Martinsried,chemistry,Robert,Huber,male
-1988,,Frankfurt-on-the-Main,chemistry,Hartmut,Michel,male
-1989,USA,"New Haven, CT",chemistry,Sidney,Altman,male
-1989,USA,"Boulder, CO",chemistry,Thomas R.,Cech,male
-1990,USA,"Cambridge, MA",chemistry,Elias James,Corey,male
-1991,CHE,Zurich,chemistry,Richard R.,Ernst,male
-1992,USA,"Pasadena, CA",chemistry,Rudolph A.,Marcus,male
-1993,USA,"La Jolla, CA",chemistry,Kary B.,Mullis,male
-1993,CAN,Vancouver,chemistry,Michael,Smith,male
-1994,USA,"Los Angeles, CA",chemistry,George A.,Olah,male
-1995,,Mainz,chemistry,Paul J.,Crutzen,male
-1995,USA,"Cambridge, MA",chemistry,Mario J.,Molina,male
-1995,USA,"Irvine, CA",chemistry,F. Sherwood,Rowland,male
-1996,USA,"Houston, TX",chemistry,Robert F.,Curl Jr.,male
-1996,GBR,Brighton,chemistry,Sir Harold W.,Kroto,male
-1996,USA,"Houston, TX",chemistry,Richard E.,Smalley,male
-1997,USA,"Los Angeles, CA",chemistry,Paul D.,Boyer,male
-1997,GBR,Cambridge,chemistry,John E.,Walker,male
-1997,DNK,Aarhus,chemistry,Jens C.,Skou,male
-1998,USA,"Santa Barbara, CA",chemistry,Walter,Kohn,male
-1998,USA,"Evanston, IL",chemistry,John A.,Pople,male
-1999,USA,"Pasadena, CA",chemistry,Ahmed H.,Zewail,male
-1901,DEU,Marburg,medicine,Emil Adolf,von Behring,male
-1902,GBR,Liverpool,medicine,Ronald,Ross,male
-1903,DNK,Copenhagen,medicine,Niels Ryberg,Finsen,male
-1904,,St. Petersburg,medicine,Ivan Petrovich,Pavlov,male
-1905,DEU,Berlin,medicine,Robert,Koch,male
-1906,ITA,Pavia,medicine,Camillo,Golgi,male
-1906,ESP,Madrid,medicine,Santiago,Ramón y Cajal,male
-1907,FRA,Paris,medicine,Charles Louis Alphonse,Laveran,male
-1908,FRA,Paris,medicine,Ilya Ilyich,Mechnikov,male
-1908,DEU,Göttingen,medicine,Paul,Ehrlich,male
-1909,CHE,Berne,medicine,Emil Theodor,Kocher,male
-1910,DEU,Heidelberg,medicine,Albrecht,Kossel,male
-1911,SWE,Uppsala,medicine,Allvar,Gullstrand,male
-1912,USA,"New York, NY",medicine,Alexis,Carrel,male
-1913,FRA,Paris,medicine,Charles Robert,Richet,male
-1914,AUT,Vienna,medicine,Robert,Bárány,male
-1919,BEL,Brussels,medicine,Jules,Bordet,male
-1920,DNK,Copenhagen,medicine,Schack August Steenberg,Krogh,male
-1922,GBR,London,medicine,Archibald Vivian,Hill,male
-1922,DEU,Kiel,medicine,Otto Fritz,Meyerhof,male
-1923,CAN,Toronto,medicine,Frederick Grant,Banting,male
-1923,CAN,Toronto,medicine,John James Rickard,Macleod,male
-1924,,Leiden,medicine,Willem,Einthoven,male
-1926,DNK,Copenhagen,medicine,Johannes Andreas Grib,Fibiger,male
-1927,AUT,Vienna,medicine,Julius,Wagner-Jauregg,male
-1928,,Tunis,medicine,Charles Jules Henri,Nicolle,male
-1929,,Utrecht,medicine,Christiaan,Eijkman,male
-1929,GBR,Cambridge,medicine,Sir Frederick Gowland,Hopkins,male
-1930,USA,"New York, NY",medicine,Karl,Landsteiner,male
-1931,DEU,Berlin-Dahlem,medicine,Otto Heinrich,Warburg,male
-1932,GBR,Oxford,medicine,Sir Charles Scott,Sherrington,male
-1932,GBR,Cambridge,medicine,Edgar Douglas,Adrian,male
-1933,USA,"Pasadena, CA",medicine,Thomas Hunt,Morgan,male
-1934,USA,"Rochester, NY",medicine,George Hoyt,Whipple,male
-1934,USA,"Cambridge, MA",medicine,George Richards,Minot,male
-1934,USA,"Cambridge, MA",medicine,William Parry,Murphy,male
-1935,DEU,Breisgau,medicine,Hans,Spemann,male
-1936,GBR,London,medicine,Sir Henry Hallett,Dale,male
-1936,AUT,Graz,medicine,Otto,Loewi,male
-1937,HUN,Szeged,medicine,Albert,von Szent-Györgyi Nagyrápolt,male
-1938,BEL,Ghent,medicine,Corneille Jean François,Heymans,male
-1939,DEU,Munster,medicine,Gerhard,Domagk,male
-1943,DNK,Copenhagen,medicine,Henrik Carl Peter,Dam,male
-1943,USA,"St. Louis, MO",medicine,Edward Adelbert,Doisy,male
-1944,USA,"St. Louis, MO",medicine,Joseph,Erlanger,male
-1944,USA,"New York, NY",medicine,Herbert Spencer,Gasser,male
-1945,GBR,London,medicine,Sir Alexander,Fleming,male
-1945,GBR,Oxford,medicine,Ernst Boris,Chain,male
-1945,GBR,Oxford,medicine,Sir Howard Walter,Florey,male
-1946,USA,"Bloomington, IN",medicine,Hermann Joseph,Muller,male
-1947,USA,"St. Louis, MO",medicine,Carl Ferdinand,Cori,male
-1947,USA,"St. Louis, MO",medicine,Gerty Theresa,"Cori, née Radnitz",female
-1947,ARG,Buenos Aires,medicine,Bernardo Alberto,Houssay,male
-1948,CHE,Basel,medicine,Paul Hermann,Müller,male
-1949,CHE,Zurich,medicine,Walter Rudolf,Hess,male
-1949,PRT,Lisbon,medicine,Antonio Caetano de Abreu Freire Egas,Moniz,male
-1950,USA,"Rochester, MN",medicine,Edward Calvin,Kendall,male
-1950,CHE,Basel,medicine,Tadeus,Reichstein,male
-1950,USA,"Rochester, MN",medicine,Philip Showalter,Hench,male
-1951,USA,"New York, NY",medicine,Max,Theiler,male
-1952,USA,"New Brunswick, NJ",medicine,Selman Abraham,Waksman,male
-1953,GBR,Sheffield,medicine,Hans Adolf,Krebs,male
-1953,USA,"Boston, MA",medicine,Fritz Albert,Lipmann,male
-1954,USA,"Boston, MA",medicine,John Franklin,Enders,male
-1954,USA,"Boston, MA",medicine,Thomas Huckle,Weller,male
-1954,USA,"Cleveland, OH",medicine,Frederick Chapman,Robbins,male
-1955,SWE,Stockholm,medicine,Axel Hugo Theodor,Theorell,male
-1956,USA,"New York, NY",medicine,André Frédéric,Cournand,male
-1956,,Mainz,medicine,Werner,Forssmann,male
-1956,USA,"New York, NY",medicine,Dickinson W.,Richards,male
-1957,ITA,Rome,medicine,Daniel,Bovet,male
-1958,USA,"Pasadena, CA",medicine,George Wells,Beadle,male
-1958,USA,"New York, NY",medicine,Edward Lawrie,Tatum,male
-1958,USA,"Madison, WI",medicine,Joshua,Lederberg,male
-1959,USA,"New York, NY",medicine,Severo,Ochoa,male
-1959,USA,"Stanford, CA",medicine,Arthur,Kornberg,male
-1960,AUS,Melbourne,medicine,Sir Frank Macfarlane,Burnet,male
-1960,GBR,London,medicine,Peter Brian,Medawar,male
-1961,USA,"Cambridge, MA",medicine,Georg,von Békésy,male
-1962,GBR,Cambridge,medicine,Francis Harry Compton,Crick,male
-1962,USA,"Cambridge, MA",medicine,James Dewey,Watson,male
-1962,GBR,London,medicine,Maurice Hugh Frederick,Wilkins,male
-1963,AUS,Canberra,medicine,Sir John Carew,Eccles,male
-1963,GBR,Cambridge,medicine,Alan Lloyd,Hodgkin,male
-1963,GBR,London,medicine,Andrew Fielding,Huxley,male
-1964,USA,"Cambridge, MA",medicine,Konrad,Bloch,male
-1964,,Munich,medicine,Feodor,Lynen,male
-1965,FRA,Paris,medicine,François,Jacob,male
-1965,FRA,Paris,medicine,André,Lwoff,male
-1965,FRA,Paris,medicine,Jacques,Monod,male
-1966,USA,"New York, NY",medicine,Peyton,Rous,male
-1966,USA,"Chicago, IL",medicine,Charles Brenton,Huggins,male
-1967,SWE,Stockholm,medicine,Ragnar,Granit,male
-1967,USA,"New York, NY",medicine,Haldan Keffer,Hartline,male
-1967,USA,"Cambridge, MA",medicine,George,Wald,male
-1968,USA,"Ithaca, NY",medicine,Robert W.,Holley,male
-1968,USA,"Madison, WI",medicine,Har Gobind,Khorana,male
-1968,USA,"Bethesda, MD",medicine,Marshall W.,Nirenberg,male
-1969,USA,"Pasadena, CA",medicine,Max,Delbrück,male
-1969,USA,"Long Island, New York, NY",medicine,Alfred D.,Hershey,male
-1969,USA,"Cambridge, MA",medicine,Salvador E.,Luria,male
-1970,GBR,London,medicine,Sir Bernard,Katz,male
-1970,SWE,Stockholm,medicine,Ulf,von Euler,male
-1970,USA,"Bethesda, MD",medicine,Julius,Axelrod,male
-1971,USA,"Nashville, TN",medicine,Earl W.,"Sutherland, Jr.",male
-1972,USA,"New York, NY",medicine,Gerald M.,Edelman,male
-1972,GBR,Oxford,medicine,Rodney R.,Porter,male
-1973,,Munich,medicine,Karl,von Frisch,male
-1973,AUT,Altenberg; Grünau im Almtal,medicine,Konrad,Lorenz,male
-1973,GBR,Oxford,medicine,Nikolaas,Tinbergen,male
-1974,BEL,Louvain,medicine,Albert,Claude,male
-1974,USA,"New York, NY",medicine,Christian,de Duve,male
-1974,USA,"New Haven, CT",medicine,George E.,Palade,male
-1975,USA,"Cambridge, MA",medicine,David,Baltimore,male
-1975,GBR,London,medicine,Renato,Dulbecco,male
-1975,USA,"Madison, WI",medicine,Howard Martin,Temin,male
-1976,USA,"Philadelphia, PA",medicine,Baruch S.,Blumberg,male
-1976,USA,"Bethesda, MD",medicine,D. Carleton,Gajdusek,male
-1977,USA,"San Diego, CA",medicine,Roger,Guillemin,male
-1977,USA,"New Orleans, LA",medicine,Andrew V.,Schally,male
-1977,USA,"Bronx, NY",medicine,Rosalyn,Yalow,female
-1978,CHE,Basel,medicine,Werner,Arber,male
-1978,USA,"Baltimore, MD",medicine,Daniel,Nathans,male
-1978,USA,"Baltimore, MD",medicine,Hamilton O.,Smith,male
-1979,USA,"Medford, MA",medicine,Allan M.,Cormack,male
-1979,GBR,London,medicine,Godfrey N.,Hounsfield,male
-1980,USA,"Boston, MA",medicine,Baruj,Benacerraf,male
-1980,FRA,Paris,medicine,Jean,Dausset,male
-1980,USA,"Bar Harbor, ME",medicine,George D.,Snell,male
-1981,USA,"Pasadena, CA",medicine,Roger W.,Sperry,male
-1981,USA,"Boston, MA",medicine,David H.,Hubel,male
-1981,USA,"Boston, MA",medicine,Torsten N.,Wiesel,male
-1982,SWE,Stockholm,medicine,Sune K.,Bergström,male
-1982,SWE,Stockholm,medicine,Bengt I.,Samuelsson,male
-1982,GBR,Beckenham,medicine,John R.,Vane,male
-1983,USA,"Cold Spring Harbor, NY",medicine,Barbara,McClintock,female
-1984,CHE,Basel,medicine,Niels K.,Jerne,male
-1984,CHE,Basel,medicine,Georges J.F.,Köhler,male
-1984,GBR,Cambridge,medicine,César,Milstein,male
-1985,USA,"Dallas, TX",medicine,Michael S.,Brown,male
-1985,USA,"Dallas, TX",medicine,Joseph L.,Goldstein,male
-1986,USA,"Nashville, TN",medicine,Stanley,Cohen,male
-1986,ITA,Rome,medicine,Rita,Levi-Montalcini,female
-1987,USA,"Cambridge, MA",medicine,Susumu,Tonegawa,male
-1988,GBR,London,medicine,Sir James W.,Black,male
-1988,USA,"Research Triangle Park, NC",medicine,Gertrude B.,Elion,female
-1988,USA,"Research Triangle Park, NC",medicine,George H.,Hitchings,male
-1989,USA,"San Francisco, CA",medicine,J. Michael,Bishop,male
-1989,USA,"San Francisco, CA",medicine,Harold E.,Varmus,male
-1990,USA,"Boston, MA",medicine,Joseph E.,Murray,male
-1990,USA,"Seattle, WA",medicine,E. Donnall,Thomas,male
-1991,,Göttingen,medicine,Erwin,Neher,male
-1991,,Heidelberg,medicine,Bert,Sakmann,male
-1992,USA,"Seattle, WA",medicine,Edmond H.,Fischer,male
-1992,USA,"Seattle, WA",medicine,Edwin G.,Krebs,male
-1993,USA,"Beverly, MA",medicine,Richard J.,Roberts,male
-1993,USA,"Cambridge, MA",medicine,Phillip A.,Sharp,male
-1994,USA,"Dallas, TX",medicine,Alfred G.,Gilman,male
-1994,USA,"Research Triangle Park, NC",medicine,Martin,Rodbell,male
-1995,USA,"Pasadena, CA",medicine,Edward B.,Lewis,male
-1995,,Tübingen,medicine,Christiane,Nüsslein-Volhard,female
-1995,USA,"Princeton, NJ",medicine,Eric F.,Wieschaus,male
-1996,USA,"Memphis, TN",medicine,Peter C.,Doherty,male
-1996,CHE,Zurich,medicine,Rolf M.,Zinkernagel,male
-1997,USA,"San Francisco, CA",medicine,Stanley B.,Prusiner,male
-1998,USA,"Brooklyn, NY",medicine,Robert F.,Furchgott,male
-1998,USA,"Los Angeles, CA",medicine,Louis J.,Ignarro,male
-1998,USA,"Houston, TX",medicine,Ferid,Murad,male
-1999,USA,"New York, NY",medicine,Günter,Blobel,male
-1901,,,peace,Jean Henry,Dunant,male
-1901,,,peace,Frédéric,Passy,male
-1902,,,peace,Élie,Ducommun,male
-1902,,,peace,Charles Albert,Gobat,male
-1903,,,peace,William Randal,Cremer,male
-1905,,,peace,Baroness Bertha Sophie Felicita,"von Suttner, née Countess Kinsky von Chinic und Tettau",female
-1906,,,peace,Theodore,Roosevelt,male
-1907,,,peace,Ernesto Teodoro,Moneta,male
-1907,FRA,Paris,peace,Louis,Renault,male
-1908,,,peace,Klas Pontus,Arnoldson,male
-1908,,,peace,Fredrik,Bajer,male
-1909,,,peace,Auguste Marie François,Beernaert,male
-1909,,,peace,Paul Henri Benjamin Balluet,"d'Estournelles de Constant, Baron de Constant de Rebecque",male
-1911,,,peace,Tobias Michael Carel,Asser,male
-1911,,,peace,Alfred Hermann,Fried,male
-1912,,,peace,Elihu,Root,male
-1913,,,peace,Henri,La Fontaine,male
-1919,,,peace,Thomas Woodrow,Wilson,male
-1920,,,peace,Léon Victor Auguste,Bourgeois,male
-1921,,,peace,Karl Hjalmar,Branting,male
-1921,,,peace,Christian Lous,Lange,male
-1922,,,peace,Fridtjof,Nansen,male
-1925,,,peace,Sir Austen,Chamberlain,male
-1925,,,peace,Charles Gates,Dawes,male
-1926,,,peace,Aristide,Briand,male
-1926,,,peace,Gustav,Stresemann,male
-1927,,,peace,Ferdinand,Buisson,male
-1927,,,peace,Ludwig,Quidde,male
-1929,,,peace,Frank Billings,Kellogg,male
-1930,,,peace,Lars Olof Jonathan (Nathan),Söderblom,male
-1931,,,peace,Jane,Addams,female
-1931,USA,"New York, NY",peace,Nicholas Murray,Butler,male
-1933,,,peace,Sir Norman,Angell (Ralph Lane),male
-1934,,,peace,Arthur,Henderson,male
-1935,,,peace,Carl,von Ossietzky,male
-1936,,,peace,Carlos,Saavedra Lamas,male
-1937,,,peace,"Cecil of Chelwood, Viscount",(Lord Edgar Algernon Robert Gascoyne Cecil),male
-1945,,,peace,Cordell,Hull,male
-1946,,,peace,Emily Greene,Balch,female
-1946,,,peace,John Raleigh,Mott,male
-1949,,,peace,Lord (John),Boyd Orr of Brechin,male
-1950,USA,"Cambridge, MA",peace,Ralph,Bunche,male
-1951,,,peace,Léon,Jouhaux,male
-1952,,,peace,Albert,Schweitzer,male
-1953,,,peace,George Catlett,Marshall,male
-1957,,,peace,Lester Bowles,Pearson,male
-1958,,,peace,Georges,Pire,male
-1959,,,peace,Philip J.,Noel-Baker,male
-1960,,,peace,Albert John,Lutuli,male
-1961,,,peace,Dag Hjalmar Agne Carl,Hammarskjöld,male
-1964,,,peace,Martin Luther,King Jr.,male
-1968,,,peace,René,Cassin,male
-1970,,,peace,Norman E.,Borlaug,male
-1971,,,peace,Willy,Brandt,male
-1973,,,peace,Henry A.,Kissinger,male
-1973,,,peace,Le Duc Tho,,male
-1974,,,peace,Seán,MacBride,male
-1974,,,peace,Eisaku,Sato,male
-1975,,,peace,Andrei Dmitrievich,Sakharov,male
-1976,,,peace,Betty,Williams,female
-1976,,,peace,Mairead,Corrigan,female
-1978,,,peace,Mohamed Anwar,al-Sadat,male
-1978,,,peace,Menachem,Begin,male
-1979,,,peace,Mother Teresa,,female
-1980,,,peace,Adolfo,Pérez Esquivel,male
-1982,,,peace,Alva,Myrdal,female
-1982,,,peace,Alfonso,García Robles,male
-1983,,,peace,Lech,Walesa,male
-1984,,,peace,Desmond Mpilo,Tutu,male
-1986,,,peace,Elie,Wiesel,male
-1987,,,peace,Oscar,Arias Sánchez,male
-1989,,,peace,The 14th Dalai Lama (Tenzin Gyatso),,male
-1990,,,peace,Mikhail Sergeyevich,Gorbachev,male
-1991,,,peace,Aung San Suu Kyi,,female
-1992,,,peace,Rigoberta,Menchú Tum,female
-1993,,,peace,Nelson,Mandela,male
-1993,,,peace,Frederik Willem,de Klerk,male
-1994,,,peace,Yasser,Arafat,male
-1994,,,peace,Shimon,Peres,male
-1994,,,peace,Yitzhak,Rabin,male
-1995,,,peace,Joseph,Rotblat,male
-1996,,,peace,Carlos Filipe Ximenes,Belo,male
-1996,,,peace,José,Ramos-Horta,male
-1997,,,peace,Jody,Williams,female
-1998,,,peace,John,Hume,male
-1998,,,peace,David,Trimble,male
-1901,,,literature,Sully,Prudhomme,male
-1902,,,literature,Christian Matthias Theodor,Mommsen,male
-1903,,,literature,Bjørnstjerne Martinus,Bjørnson,male
-1904,,,literature,Frédéric,Mistral,male
-1904,,,literature,José,Echegaray y Eizaguirre,male
-1905,,,literature,Henryk,Sienkiewicz,male
-1906,,,literature,Giosuè,Carducci,male
-1907,,,literature,Rudyard,Kipling,male
-1908,,,literature,Rudolf Christoph,Eucken,male
-1909,,,literature,Selma Ottilia Lovisa,Lagerlöf,female
-1910,,,literature,Paul Johann Ludwig,Heyse,male
-1911,,,literature,Count Maurice (Mooris) Polidore Marie Bernhard,Maeterlinck,male
-1912,,,literature,Gerhart Johann Robert,Hauptmann,male
-1913,,,literature,Rabindranath,Tagore,male
-1915,,,literature,Romain,Rolland,male
-1916,,,literature,Carl Gustaf Verner,von Heidenstam,male
-1917,,,literature,Karl Adolph,Gjellerup,male
-1917,,,literature,Henrik,Pontoppidan,male
-1919,,,literature,Carl Friedrich Georg,Spitteler,male
-1920,,,literature,Knut Pedersen,Hamsun,male
-1921,,,literature,Anatole,France,male
-1922,,,literature,Jacinto,Benavente,male
-1923,,,literature,William Butler,Yeats,male
-1924,,,literature,Wladyslaw Stanislaw,Reymont,male
-1925,,,literature,George Bernard,Shaw,male
-1926,,,literature,Grazia,Deledda,female
-1927,,,literature,Henri,Bergson,male
-1928,,,literature,Sigrid,Undset,female
-1929,,,literature,Thomas,Mann,male
-1930,,,literature,Sinclair,Lewis,male
-1931,,,literature,Erik Axel,Karlfeldt,male
-1932,,,literature,John,Galsworthy,male
-1933,,,literature,Ivan Alekseyevich,Bunin,male
-1934,,,literature,Luigi,Pirandello,male
-1936,,,literature,Eugene Gladstone,O'Neill,male
-1937,,,literature,Roger,Martin du Gard,male
-1938,,,literature,Pearl,Buck,female
-1939,,,literature,Frans Eemil,Sillanpää,male
-1944,,,literature,Johannes Vilhelm,Jensen,male
-1945,,,literature,Gabriela,Mistral,female
-1946,,,literature,Hermann,Hesse,male
-1947,,,literature,André Paul Guillaume,Gide,male
-1948,,,literature,Thomas Stearns,Eliot,male
-1949,,,literature,William,Faulkner,male
-1950,,,literature,Earl (Bertrand Arthur William),Russell,male
-1951,,,literature,Pär Fabian,Lagerkvist,male
-1952,,,literature,François,Mauriac,male
-1953,,,literature,Sir Winston Leonard Spencer,Churchill,male
-1954,,,literature,Ernest Miller,Hemingway,male
-1955,,,literature,Halldór Kiljan,Laxness,male
-1956,,,literature,Juan Ramón,Jiménez,male
-1957,,,literature,Albert,Camus,male
-1958,,,literature,Boris Leonidovich,Pasternak,male
-1959,,,literature,Salvatore,Quasimodo,male
-1960,,,literature,Saint-John,Perse,male
-1961,,,literature,Ivo,Andric,male
-1962,,,literature,John,Steinbeck,male
-1963,,,literature,Giorgos,Seferis,male
-1964,,,literature,Jean-Paul,Sartre,male
-1965,,,literature,Mikhail Aleksandrovich,Sholokhov,male
-1966,,,literature,Shmuel Yosef,Agnon,male
-1966,,,literature,Nelly,Sachs,female
-1967,,,literature,Miguel Angel,Asturias,male
-1968,,,literature,Yasunari,Kawabata,male
-1969,,,literature,Samuel,Beckett,male
-1970,,,literature,Aleksandr Isayevich,Solzhenitsyn,male
-1971,,,literature,Pablo,Neruda,male
-1972,,,literature,Heinrich,Böll,male
-1973,,,literature,Patrick,White,male
-1974,,,literature,Eyvind,Johnson,male
-1974,,,literature,Harry,Martinson,male
-1975,,,literature,Eugenio,Montale,male
-1976,,,literature,Saul,Bellow,male
-1977,,,literature,Vicente,Aleixandre,male
-1978,,,literature,Isaac Bashevis,Singer,male
-1979,,,literature,Odysseus,Elytis,male
-1980,,,literature,Czeslaw,Milosz,male
-1981,,,literature,Elias,Canetti,male
-1982,,,literature,Gabriel,García Márquez,male
-1983,,,literature,William,Golding,male
-1984,,,literature,Jaroslav,Seifert,male
-1985,,,literature,Claude,Simon,male
-1986,,,literature,Wole,Soyinka,male
-1987,,,literature,Joseph,Brodsky,male
-1988,,,literature,Naguib,Mahfouz,male
-1989,,,literature,Camilo José,Cela,male
-1990,,,literature,Octavio,Paz,male
-1991,,,literature,Nadine,Gordimer,female
-1992,,,literature,Derek,Walcott,male
-1993,,,literature,Toni,Morrison,female
-1994,,,literature,Kenzaburo,Oe,male
-1995,,,literature,Seamus,Heaney,male
-1996,,,literature,Wislawa,Szymborska,female
-1997,,,literature,Dario,Fo,male
-1998,,,literature,José,Saramago,male
-1999,,,literature,Günter,Grass,male
-1969,NOR,Oslo,economics,Ragnar,Frisch,male
-1969,,Rotterdam,economics,Jan,Tinbergen,male
-1970,USA,"Cambridge, MA",economics,Paul A.,Samuelson,male
-1971,USA,"Cambridge, MA",economics,Simon,Kuznets,male
-1972,GBR,Oxford,economics,John R.,Hicks,male
-1972,USA,"Cambridge, MA",economics,Kenneth J.,Arrow,male
-1973,USA,"Cambridge, MA",economics,Wassily,Leontief,male
-1974,,,economics,Gunnar,Myrdal,male
-1974,,,economics,Friedrich August,von Hayek,male
-1975,,Moscow,economics,Leonid Vitaliyevich,Kantorovich,male
-1975,USA,"New Haven, CT",economics,Tjalling C.,Koopmans,male
-1976,USA,"Chicago, IL",economics,Milton,Friedman,male
-1977,SWE,Stockholm,economics,Bertil,Ohlin,male
-1977,GBR,Cambridge,economics,James E.,Meade,male
-1978,USA,"Pittsburgh, PA",economics,Herbert A.,Simon,male
-1979,USA,"Chicago, IL",economics,Theodore W.,Schultz,male
-1979,USA,"Princeton, NJ",economics,Sir Arthur,Lewis,male
-1980,USA,"Philadelphia, PA",economics,Lawrence R.,Klein,male
-1981,USA,"New Haven, CT",economics,James,Tobin,male
-1982,USA,"Chicago, IL",economics,George J.,Stigler,male
-1983,USA,"Berkeley, CA",economics,Gerard,Debreu,male
-1984,GBR,Cambridge,economics,Richard,Stone,male
-1985,USA,"Cambridge, MA",economics,Franco,Modigliani,male
-1986,USA,"Fairfax, VA",economics,James M.,Buchanan Jr.,male
-1987,USA,"Cambridge, MA",economics,Robert M.,Solow,male
-1988,FRA,Paris,economics,Maurice,Allais,male
-1989,NOR,Oslo,economics,Trygve,Haavelmo,male
-1990,USA,"New York, NY",economics,Harry M.,Markowitz,male
-1990,USA,"Chicago, IL",economics,Merton H.,Miller,male
-1990,USA,"Stanford, CA",economics,William F.,Sharpe,male
-1991,USA,"Chicago, IL",economics,Ronald H.,Coase,male
-1992,USA,"Chicago, IL",economics,Gary S.,Becker,male
-1993,USA,"Chicago, IL",economics,Robert W.,Fogel,male
-1993,USA,"St. Louis, MO",economics,Douglass C.,North,male
-1994,USA,"Berkeley, CA",economics,John C.,Harsanyi,male
-1994,USA,"Princeton, NJ",economics,John F.,Nash Jr.,male
-1994,,Bonn,economics,Reinhard,Selten,male
-1995,USA,"Chicago, IL",economics,Robert E.,Lucas Jr.,male
-1996,GBR,Cambridge,economics,James A.,Mirrlees,male
-1996,USA,"New York, NY",economics,William,Vickrey,male
-1997,USA,"Cambridge, MA",economics,Robert C.,Merton,male
-1997,USA,"Greenwich, CT",economics,Myron S.,Scholes,male
-1998,GBR,Cambridge,economics,Amartya,Sen,male
-1999,USA,"New York, NY",economics,Robert A.,Mundell,male
-1958,,Moscow,physics,Il´ja Mikhailovich,Frank,male
-2000,SWE,Gothenburg,medicine,Arvid,Carlsson,male
-2000,USA,"New York, NY",medicine,Paul,Greengard,male
-2000,USA,"New York, NY",medicine,Eric R.,Kandel,male
-2000,,,peace,Kim,Dae-jung,male
-2000,,St. Petersburg,physics,Zhores I.,Alferov,male
-2000,USA,"Santa Barbara, CA",physics,Herbert,Kroemer,male
-2000,USA,"Dallas, TX",physics,Jack S.,Kilby,male
-2000,USA,"Santa Barbara, CA",chemistry,Alan J.,Heeger,male
-2000,USA,"Philadelphia, PA",chemistry,Alan G.,MacDiarmid,male
-2000,JPN,Tokyo,chemistry,Hideki,Shirakawa,male
-2000,USA,"Chicago, IL",economics,James J.,Heckman,male
-2000,USA,"Berkeley, CA",economics,Daniel L.,McFadden,male
-2000,,,literature,Gao,Xingjian,male
-2001,USA,"Seattle, WA",medicine,Leland H.,Hartwell,male
-2001,GBR,London,medicine,Tim,Hunt,male
-2001,GBR,London,medicine,Sir Paul M.,Nurse,male
-2001,USA,"Boulder, CO",physics,Eric A.,Cornell,male
-2001,USA,"Cambridge, MA",physics,Wolfgang,Ketterle,male
-2001,USA,"Boulder, CO",physics,Carl E.,Wieman,male
-2001,USA,"St. Louis, MO",chemistry,William S.,Knowles,male
-2001,JPN,Nagoya,chemistry,Ryoji,Noyori,male
-2001,USA,"La Jolla, CA",chemistry,K. Barry,Sharpless,male
-2001,USA,"Berkeley, CA",economics,George A.,Akerlof,male
-2001,USA,"Stanford, CA",economics,A. Michael,Spence,male
-2001,USA,"New York, NY",economics,Joseph E.,Stiglitz,male
-2001,,,literature,Sir Vidiadhar Surajprasad,Naipaul,male
-2001,,,peace,Kofi,Annan,male
-2002,USA,"Berkeley, CA",medicine,Sydney,Brenner,male
-2002,USA,"Cambridge, MA",medicine,H. Robert,Horvitz,male
-2002,GBR,Cambridge,medicine,John E.,Sulston,male
-2002,USA,"Philadelphia, PA",physics,Raymond,Davis Jr.,male
-2002,JPN,Tokyo,physics,Masatoshi,Koshiba,male
-2002,USA,"Washington, DC",physics,Riccardo,Giacconi,male
-2002,USA,"Richmond, VA",chemistry,John B.,Fenn,male
-2002,JPN,Kyoto,chemistry,Koichi,Tanaka,male
-2002,CHE,Zurich,chemistry,Kurt,Wüthrich,male
-2002,USA,"Princeton, NJ",economics,Daniel,Kahneman,male
-2002,USA,"Fairfax, VA",economics,Vernon L.,Smith,male
-2002,,,literature,Imre,Kertész,male
-2002,,,peace,Jimmy,Carter,male
-2003,,,literature,John M.,Coetzee,male
-2003,USA,"Urbana, IL",medicine,Paul C.,Lauterbur,male
-2003,GBR,Nottingham,medicine,Sir Peter,Mansfield,male
-2003,USA,"Argonne, IL",physics,Alexei A.,Abrikosov,male
-2003,,Moscow,physics,Vitaly L.,Ginzburg,male
-2003,USA,"Urbana, IL",physics,Anthony J.,Leggett,male
-2003,USA,"Baltimore, MD",chemistry,Peter,Agre,male
-2003,USA,"New York, NY",chemistry,Roderick,MacKinnon,male
-2003,USA,"New York, NY",economics,Robert F.,Engle III,male
-2003,USA,"San Diego, CA",economics,Clive W.J.,Granger,male
-2003,,,peace,Shirin,Ebadi,female
-2004,USA,"New York, NY",medicine,Richard,Axel,male
-2004,USA,"Seattle, WA",medicine,Linda B.,Buck,female
-2004,USA,"Santa Barbara, CA",physics,David J.,Gross,male
-2004,USA,"Pasadena, CA",physics,H. David,Politzer,male
-2004,USA,"Cambridge, MA",physics,Frank,Wilczek,male
-2004,ISR,Haifa,chemistry,Aaron,Ciechanover,male
-2004,ISR,Haifa,chemistry,Avram,Hershko,male
-2004,USA,"Irvine, CA",chemistry,Irwin,Rose,male
-2004,,,literature,Elfriede,Jelinek,female
-2004,,,peace,Wangari Muta,Maathai,female
-2004,USA,"Pittsburgh, PA",economics,Finn E.,Kydland,male
-2004,USA,"Tempe, AZ",economics,Edward C.,Prescott,male
-2005,AUS,Nedlands,medicine,Barry J.,Marshall,male
-2005,AUS,Perth,medicine,J. Robin,Warren,male
-2005,USA,"Cambridge, MA",physics,Roy J.,Glauber,male
-2005,USA,"Boulder, CO",physics,John L.,Hall,male
-2005,DEU,Garching,physics,Theodor W.,Hänsch,male
-2005,FRA,Rueil-Malmaison,chemistry,Yves,Chauvin,male
-2005,USA,"Pasadena, CA",chemistry,Robert H.,Grubbs,male
-2005,USA,"Cambridge, MA",chemistry,Richard R.,Schrock,male
-2005,,,peace,Mohamed,ElBaradei,male
-2005,ISR,Jerusalem,economics,Robert J.,Aumann,male
-2005,USA,"College Park, MD",economics,Thomas C.,Schelling,male
-2005,,,literature,Harold,Pinter,male
-2006,USA,"Stanford, CA",medicine,Andrew Z.,Fire,male
-2006,USA,"Worcester, MA",medicine,Craig C.,Mello,male
-2006,USA,"Greenbelt, MD",physics,John C.,Mather,male
-2006,USA,"Berkeley, CA",physics,George F.,Smoot,male
-2006,USA,"Stanford, CA",chemistry,Roger D.,Kornberg,male
-2006,USA,"New York, NY",economics,Edmund S.,Phelps,male
-2006,,,literature,Orhan,Pamuk,male
-2006,,,peace,Muhammad,Yunus,male
-2007,USA,"Salt Lake City, UT",medicine,Mario R.,Capecchi,male
-2007,GBR,Cardiff,medicine,Sir Martin J.,Evans,male
-2007,USA,"Chapel Hill, NC",medicine,Oliver,Smithies,male
-2007,FRA,Orsay,physics,Albert,Fert,male
-2007,DEU,J&uuml;lich,physics,Peter,Grünberg,male
-2007,DEU,Berlin,chemistry,Gerhard,Ertl,male
-2007,,,literature,Doris,Lessing,female
-2007,,,peace,Albert Arnold (Al),Gore Jr.,male
-2007,USA,"Minneapolis, MN",economics,Leonid,Hurwicz,male
-2007,USA,"Princeton, NJ",economics,Eric S.,Maskin,male
-2007,USA,"Chicago, IL",economics,Roger B.,Myerson,male
-2008,DEU,Heidelberg,medicine,Harald,zur Hausen,male
-2008,FRA,Paris,medicine,Françoise,Barré-Sinoussi,female
-2008,FRA,Paris,medicine,Luc,Montagnier,male
-2008,USA,"Chicago, IL",physics,Yoichiro,Nambu,male
-2008,JPN,Tsukuba,physics,Makoto,Kobayashi,male
-2008,JPN,Kyoto,physics,Toshihide,Maskawa,male
-2008,USA,"Woods Hole, MA",chemistry,Osamu,Shimomura,male
-2008,USA,"New York, NY",chemistry,Martin,Chalfie,male
-2008,USA,"San Diego, CA",chemistry,Roger Y.,Tsien,male
-2008,,,literature,Jean-Marie Gustave,Le Clézio,male
-2008,,,peace,Martti,Ahtisaari,male
-2008,USA,"Princeton, NJ",economics,Paul,Krugman,male
-2009,USA,"San Francisco, CA",medicine,Elizabeth H.,Blackburn,female
-2009,USA,"Baltimore, MD",medicine,Carol W.,Greider,female
-2009,USA,"Boston, MA",medicine,Jack W.,Szostak,male
-2009,GBR,Harlow,physics,Charles Kuen,Kao,male
-2009,USA,"Murray Hill, NJ",physics,Willard S.,Boyle,male
-2009,USA,"Murray Hill, NJ",physics,George E.,Smith,male
-2009,USA,"New Haven, CT",chemistry,Thomas A.,Steitz,male
-2009,ISR,Rehovot,chemistry,Ada E.,Yonath,female
-2009,,,literature,Herta,Müller,female
-2009,,,peace,Barack H.,Obama,male
-2009,USA,"Bloomington, IN",economics,Elinor,Ostrom,female
-2009,USA,"Berkeley, CA",economics,Oliver E.,Williamson,male
-2010,GBR,Cambridge,medicine,Robert G.,Edwards,male
-2010,GBR,Manchester,physics,Andre,Geim,male
-2010,GBR,Manchester,physics,Konstantin,Novoselov,male
-2010,USA,,chemistry,Richard F.,Heck,male
-2010,USA,"West Lafayette, IN",chemistry,Ei-ichi,Negishi,male
-2010,JPN,Sapporo,chemistry,Akira,Suzuki,male
-2010,,,literature,Mario,Vargas Llosa,male
-2010,,,peace,Liu,Xiaobo,male
-2010,USA,"Cambridge, MA",economics,Peter A.,Diamond,male
-2010,USA,"Evanston, IL",economics,Dale T.,Mortensen,male
-2010,GBR,London,economics,Christopher A.,Pissarides,male
-2011,USA,"Dallas, TX",medicine,Bruce A.,Beutler,male
-2011,FRA,Strasbourg,medicine,Jules A.,Hoffmann,male
-2011,USA,"New York, NY",medicine,Ralph M.,Steinman,male
-2011,AUS,Weston Creek,physics,Brian P.,Schmidt,male
-2011,USA,"Baltimore, MD",physics,Adam G.,Riess,male
-2011,ISR,Haifa,chemistry,Dan,Shechtman,male
-2011,,,literature,Tomas,Tranströmer,male
-2011,,,peace,Ellen,Johnson Sirleaf,female
-2011,,,peace,Leymah,Gbowee,female
-2011,,,peace,Tawakkol,Karman,female
-2011,USA,"New York, NY",economics,Thomas J.,Sargent,male
-2011,USA,"Princeton, NJ",economics,Christopher A.,Sims,male
-2012,GBR,Cambridge,medicine,Sir John B.,Gurdon,male
-2012,JPN,Kyoto,medicine,Shinya,Yamanaka,male
-2012,FRA,Paris,physics,Serge,Haroche,male
-2012,USA,"Boulder, CO",physics,David J.,Wineland,male
-2012,,,chemistry,Robert J.,Lefkowitz,male
-2012,USA,"Stanford, CA",chemistry,Brian K.,Kobilka,male
-2012,,,literature,Mo,Yan,male
-2012,USA,"Cambridge, MA",economics,Alvin E.,Roth,male
-2012,USA,"Los Angeles, CA",economics,Lloyd S.,Shapley,male
-2013,USA,"New Haven, CT",medicine,James E.,Rothman,male
-2013,USA,"Berkeley, CA",medicine,Randy W.,Schekman,male
-2013,USA,"Stanford, CA",medicine,Thomas C.,Südhof,male
-2013,BEL,Brussels,physics,François,Englert,male
-2013,GBR,Edinburgh,physics,Peter W.,Higgs,male
-2013,FRA,Strasbourg,chemistry,Martin,Karplus,male
-2013,USA,"Stanford, CA",chemistry,Michael,Levitt,male
-2013,USA,"Los Angeles, CA",chemistry,Arieh,Warshel,male
-2013,,,literature,Alice,Munro,female
-2013,USA,"Chicago, IL",economics,Eugene F.,Fama,male
-2013,USA,"Chicago, IL",economics,Lars Peter,Hansen,male
-2013,USA,"New Haven, CT",economics,Robert J.,Shiller,male
-2014,GBR,London,medicine,John,O'Keefe,male
-2014,NOR,Trondheim,medicine,May-Britt,Moser,female
-2014,NOR,Trondheim,medicine,Edvard I.,Moser,male
-2014,JPN,Nagoya,physics,Isamu,Akasaki,male
-2014,JPN,Nagoya,physics,Hiroshi,Amano,male
-2014,USA,"Santa Barbara, CA",physics,Shuji,Nakamura,male
-2014,USA,"Ashburn, VA",chemistry,Eric,Betzig,male
-2014,DEU,Göttingen,chemistry,Stefan W.,Hell,male
-2014,USA,"Stanford, CA",chemistry,William E.,Moerner,male
-2014,,,literature,Patrick,Modiano,male
-2014,,,peace,Kailash,Satyarthi,male
-2014,,,peace,Malala,Yousafzai,female
-2014,FRA,Toulouse,economics,Jean,Tirole,male
-2015,USA,"Madison, NJ",medicine,William C.,Campbell,male
-2015,JPN,Tokyo,medicine,Satoshi,Ōmura,male
-2015,CHN,Beijing,medicine,Youyou,Tu,female
-2015,JPN,Kashiwa,physics,Takaaki,Kajita,male
-2015,CAN,Kingston,physics,Arthur B.,McDonald,male
-2015,GBR,Hertfordshire,chemistry,Tomas,Lindahl,male
-2015,USA,"Durham, NC",chemistry,Paul,Modrich,male
-2015,USA,"Chapel Hill, NC",chemistry,Aziz,Sancar,male
-2015,,,literature,Svetlana,Alexievich,female
-2015,USA,"Princeton, NJ",economics,Angus,Deaton,male
-2016,JPN,Tokyo,medicine,Yoshinori,Ohsumi,male
-2016,USA,"Seattle, WA",physics,David J.,Thouless,male
-2016,USA,"Princeton, NJ",physics,F. Duncan M.,Haldane,male
-2016,USA,"Providence, RI",physics,J. Michael,Kosterlitz,male
-2016,FRA,Strasbourg,chemistry,Jean-Pierre,Sauvage,male
-2016,USA,"Evanston, IL",chemistry,Sir J. Fraser,Stoddart,male
-2016,,Groningen,chemistry,Bernard L.,Feringa,male
-2016,,,peace,Juan Manuel,Santos,male
-2016,USA,"Cambridge, MA",economics,Oliver,Hart,male
-2016,USA,"Cambridge, MA",economics,Bengt,Holmström,male
-2016,,,literature,Bob,Dylan,male
-2017,,,physics,Rainer,Weiss,male
-2017,,,physics,Barry C.,Barish,male
-2017,,,physics,Kip S.,Thorne,male
-2017,CHE,Lausanne,chemistry,Jacques,Dubochet,male
-2017,USA,"New York, NY",chemistry,Joachim,Frank,male
-2017,GBR,Cambridge,chemistry,Richard,Henderson,male
-2017,,,literature,Kazuo,Ishiguro,male
-2017,USA,"Chicago, IL",economics,Richard H.,Thaler,male
+id,year,country,city,category,firstname,surname,gender
+1,1901,DEU,Munich,physics,Wilhelm Conrad,Röntgen,male
+2,1902,,Leiden,physics,Hendrik Antoon,Lorentz,male
+3,1902,,Amsterdam,physics,Pieter,Zeeman,male
+4,1903,FRA,Paris,physics,Antoine Henri,Becquerel,male
+5,1903,FRA,Paris,physics,Pierre,Curie,male
+6,1903,,,physics,Marie,"Curie, née Sklodowska",female
+7,1911,FRA,Paris,chemistry,Marie,"Curie, née Sklodowska",female
+8,1904,GBR,London,physics,Lord Rayleigh,(John William Strutt),male
+9,1905,DEU,Kiel,physics,Philipp Eduard Anton,von Lenard,male
+10,1906,GBR,Cambridge,physics,Joseph John,Thomson,male
+11,1907,USA,"Chicago, IL",physics,Albert Abraham,Michelson,male
+12,1908,FRA,Paris,physics,Gabriel,Lippmann,male
+13,1909,GBR,London,physics,Guglielmo,Marconi,male
+14,1909,,Strasbourg,physics,Karl Ferdinand,Braun,male
+15,1910,,Amsterdam,physics,Johannes Diderik,van der Waals,male
+16,1911,DEU,Würzburg,physics,Wilhelm,Wien,male
+17,1912,SWE,Lidingö-Stockholm,physics,Nils Gustaf,Dalén,male
+18,1913,,Leiden,physics,Heike,Kamerlingh Onnes,male
+19,1914,DEU,Frankfurt-on-the-Main,physics,Max,von Laue,male
+20,1915,GBR,London,physics,Sir William Henry,Bragg,male
+21,1915,GBR,Manchester,physics,William Lawrence,Bragg,male
+22,1917,GBR,Edinburgh,physics,Charles Glover,Barkla,male
+23,1918,DEU,Berlin,physics,Max Karl Ernst Ludwig,Planck,male
+24,1919,DEU,Greifswald,physics,Johannes,Stark,male
+25,1920,FRA,Sèvres,physics,Charles Edouard,Guillaume,male
+26,1921,DEU,Berlin,physics,Albert,Einstein,male
+27,1922,DNK,Copenhagen,physics,Niels Henrik David,Bohr,male
+28,1923,USA,"Pasadena, CA",physics,Robert Andrews,Millikan,male
+29,1924,SWE,Uppsala,physics,Karl Manne Georg,Siegbahn,male
+30,1925,DEU,Göttingen,physics,James,Franck,male
+31,1925,DEU,Halle,physics,Gustav Ludwig,Hertz,male
+32,1926,FRA,Paris,physics,Jean Baptiste,Perrin,male
+33,1927,USA,"Chicago, IL",physics,Arthur Holly,Compton,male
+34,1927,GBR,Cambridge,physics,Charles Thomson Rees,Wilson,male
+35,1928,GBR,London,physics,Owen Willans,Richardson,male
+36,1929,FRA,Paris,physics,Prince Louis-Victor Pierre Raymond,de Broglie,male
+37,1930,IND,Calcutta,physics,Sir Chandrasekhara Venkata,Raman,male
+38,1932,DEU,Leipzig,physics,Werner Karl,Heisenberg,male
+39,1933,DEU,Berlin,physics,Erwin,Schrödinger,male
+40,1933,GBR,Cambridge,physics,Paul Adrien Maurice,Dirac,male
+41,1935,GBR,Liverpool,physics,James,Chadwick,male
+42,1936,AUT,Innsbruck,physics,Victor Franz,Hess,male
+43,1936,USA,"Pasadena, CA",physics,Carl David,Anderson,male
+44,1937,USA,"New York, NY",physics,Clinton Joseph,Davisson,male
+45,1937,GBR,London,physics,George Paget,Thomson,male
+46,1938,ITA,Rome,physics,Enrico,Fermi,male
+47,1939,USA,"Berkeley, CA",physics,Ernest Orlando,Lawrence,male
+48,1943,USA,"Pittsburgh, PA",physics,Otto,Stern,male
+49,1944,USA,"New York, NY",physics,Isidor Isaac,Rabi,male
+50,1945,USA,"Princeton, NJ",physics,Wolfgang,Pauli,male
+51,1946,USA,"Cambridge, MA",physics,Percy Williams,Bridgman,male
+52,1947,GBR,London,physics,Sir Edward Victor,Appleton,male
+53,1948,GBR,Manchester,physics,Patrick Maynard Stuart,Blackett,male
+54,1949,JPN,Kyoto,physics,Hideki,Yukawa,male
+55,1950,GBR,Bristol,physics,Cecil Frank,Powell,male
+56,1951,GBR,"Harwell, Berkshire",physics,Sir John Douglas,Cockcroft,male
+57,1951,IRL,Dublin,physics,Ernest Thomas Sinton,Walton,male
+58,1952,USA,"Stanford, CA",physics,Felix,Bloch,male
+59,1952,USA,"Cambridge, MA",physics,Edward Mills,Purcell,male
+60,1953,,Groningen,physics,Frits,Zernike,male
+61,1954,GBR,Edinburgh,physics,Max,Born,male
+62,1954,,Heidelberg,physics,Walther,Bothe,male
+63,1955,USA,"Stanford, CA",physics,Willis Eugene,Lamb,male
+64,1955,USA,"New York, NY",physics,Polykarp,Kusch,male
+65,1956,USA,"Mountain View, CA",physics,William Bradford,Shockley,male
+66,1956,USA,"Urbana, IL",physics,John,Bardeen,male
+67,1972,USA,"Urbana, IL",physics,John,Bardeen,male
+68,1956,USA,"Murray Hill, NJ",physics,Walter Houser,Brattain,male
+69,1957,USA,"Princeton, NJ",physics,Chen Ning,Yang,male
+70,1957,USA,"New York, NY",physics,Tsung-Dao (T.D.),Lee,male
+71,1958,,Moscow,physics,Pavel Alekseyevich,Cherenkov,male
+72,1958,,Moscow,physics,Igor Yevgenyevich,Tamm,male
+73,1959,USA,"Berkeley, CA",physics,Emilio Gino,Segrè,male
+74,1959,USA,"Berkeley, CA",physics,Owen,Chamberlain,male
+75,1960,USA,"Berkeley, CA",physics,Donald Arthur,Glaser,male
+76,1961,USA,"Stanford, CA",physics,Robert,Hofstadter,male
+77,1961,,Munich,physics,Rudolf Ludwig,Mössbauer,male
+78,1962,,Moscow,physics,Lev Davidovich,Landau,male
+79,1963,USA,"Princeton, NJ",physics,Eugene Paul,Wigner,male
+80,1963,USA,"San Diego, CA",physics,Maria,Goeppert Mayer,female
+81,1963,,Heidelberg,physics,J. Hans D.,Jensen,male
+82,1964,USA,"Cambridge, MA",physics,Charles Hard,Townes,male
+83,1964,,Moscow,physics,Nicolay Gennadiyevich,Basov,male
+84,1964,,Moscow,physics,Aleksandr Mikhailovich,Prokhorov,male
+85,1965,JPN,Tokyo,physics,Sin-Itiro,Tomonaga,male
+86,1965,USA,"Cambridge, MA",physics,Julian,Schwinger,male
+87,1965,USA,"Pasadena, CA",physics,Richard P.,Feynman,male
+88,1966,FRA,Paris,physics,Alfred,Kastler,male
+89,1967,USA,"Ithaca, NY",physics,Hans Albrecht,Bethe,male
+90,1968,USA,"Berkeley, CA",physics,Luis Walter,Alvarez,male
+91,1969,USA,"Pasadena, CA",physics,Murray,Gell-Mann,male
+92,1970,SWE,Stockholm,physics,Hannes Olof Gösta,Alfvén,male
+93,1970,FRA,Grenoble,physics,Louis Eugène Félix,Néel,male
+94,1971,GBR,London,physics,Dennis,Gabor,male
+95,1972,USA,"Providence, RI",physics,Leon Neil,Cooper,male
+96,1972,USA,"Philadelphia, PA",physics,John Robert,Schrieffer,male
+97,1973,USA,"Yorktown Heights, NY",physics,Leo,Esaki,male
+98,1973,USA,"Schenectady, NY",physics,Ivar,Giaever,male
+99,1973,GBR,Cambridge,physics,Brian David,Josephson,male
+100,1974,GBR,Cambridge,physics,Sir Martin,Ryle,male
+101,1974,GBR,Cambridge,physics,Antony,Hewish,male
+102,1975,DNK,Copenhagen,physics,Aage Niels,Bohr,male
+103,1975,DNK,Copenhagen,physics,Ben Roy,Mottelson,male
+104,1975,USA,"New York, NY",physics,Leo James,Rainwater,male
+105,1976,USA,"Stanford, CA",physics,Burton,Richter,male
+106,1976,USA,"Cambridge, MA",physics,Samuel Chao Chung,Ting,male
+107,1977,USA,"Murray Hill, NJ",physics,Philip Warren,Anderson,male
+108,1977,GBR,Cambridge,physics,Sir Nevill Francis,Mott,male
+109,1977,USA,"Cambridge, MA",physics,John Hasbrouck,van Vleck,male
+110,1978,,Moscow,physics,Pyotr Leonidovich,Kapitsa,male
+111,1978,USA,"Holmdel, NJ",physics,Arno Allan,Penzias,male
+112,1978,USA,"Holmdel, NJ",physics,Robert Woodrow,Wilson,male
+113,1979,USA,"Cambridge, MA",physics,Sheldon Lee,Glashow,male
+114,1979,ITA,Trieste,physics,Abdus,Salam,male
+115,1979,USA,"Cambridge, MA",physics,Steven,Weinberg,male
+116,1980,USA,"Chicago, IL",physics,James Watson,Cronin,male
+117,1980,USA,"Princeton, NJ",physics,Val Logsdon,Fitch,male
+118,1981,USA,"Cambridge, MA",physics,Nicolaas,Bloembergen,male
+119,1981,USA,"Stanford, CA",physics,Arthur Leonard,Schawlow,male
+120,1981,SWE,Uppsala,physics,Kai M.,Siegbahn,male
+121,1982,USA,"Ithaca, NY",physics,Kenneth G.,Wilson,male
+122,1983,USA,"Chicago, IL",physics,Subramanyan,Chandrasekhar,male
+123,1983,USA,"Pasadena, CA",physics,William Alfred,Fowler,male
+124,1984,CHE,Geneva,physics,Carlo,Rubbia,male
+125,1984,CHE,Geneva,physics,Simon,van der Meer,male
+126,1985,,Stuttgart,physics,Klaus,von Klitzing,male
+127,1986,,Berlin,physics,Ernst,Ruska,male
+128,1986,CHE,Rüschlikon,physics,Gerd,Binnig,male
+129,1986,CHE,Rüschlikon,physics,Heinrich,Rohrer,male
+130,1987,CHE,Rüschlikon,physics,J. Georg,Bednorz,male
+131,1987,CHE,Rüschlikon,physics,K. Alexander,Müller,male
+132,1988,USA,"Batavia, IL",physics,Leon M.,Lederman,male
+133,1988,USA,"Mountain View, CA",physics,Melvin,Schwartz,male
+134,1988,CHE,Geneva,physics,Jack,Steinberger,male
+135,1989,USA,"Cambridge, MA",physics,Norman F.,Ramsey,male
+136,1989,USA,"Seattle, WA",physics,Hans G.,Dehmelt,male
+137,1989,,Bonn,physics,Wolfgang,Paul,male
+138,1990,USA,"Cambridge, MA",physics,Jerome I.,Friedman,male
+139,1990,USA,"Cambridge, MA",physics,Henry W.,Kendall,male
+140,1990,USA,"Stanford, CA",physics,Richard E.,Taylor,male
+141,1991,FRA,Paris,physics,Pierre-Gilles,de Gennes,male
+142,1992,FRA,Paris,physics,Georges,Charpak,male
+143,1993,USA,"Princeton, NJ",physics,Russell A.,Hulse,male
+144,1993,USA,"Princeton, NJ",physics,Joseph H.,Taylor Jr.,male
+145,1994,CAN,"Hamilton, Ontario",physics,Bertram N.,Brockhouse,male
+146,1994,USA,"Cambridge, MA",physics,Clifford G.,Shull,male
+147,1995,USA,"Stanford, CA",physics,Martin L.,Perl,male
+148,1995,USA,"Irvine, CA",physics,Frederick,Reines,male
+149,1996,USA,"Ithaca, NY",physics,David M.,Lee,male
+150,1996,USA,"Stanford, CA",physics,Douglas D.,Osheroff,male
+151,1996,USA,"Ithaca, NY",physics,Robert C.,Richardson,male
+152,1997,USA,"Stanford, CA",physics,Steven,Chu,male
+153,1997,FRA,Paris,physics,Claude,Cohen-Tannoudji,male
+154,1997,USA,"Gaithersburg, MD",physics,William D.,Phillips,male
+155,1998,USA,"Stanford, CA",physics,Robert B.,Laughlin,male
+156,1998,USA,"New York, NY",physics,Horst L.,Störmer,male
+157,1998,USA,"Princeton, NJ",physics,Daniel C.,Tsui,male
+158,1999,,Utrecht,physics,Gerardus,'t Hooft,male
+159,1999,,Bilthoven,physics,Martinus J.G.,Veltman,male
+160,1901,DEU,Berlin,chemistry,Jacobus Henricus,van 't Hoff,male
+161,1902,DEU,Berlin,chemistry,Hermann Emil,Fischer,male
+162,1903,SWE,Stockholm,chemistry,Svante August,Arrhenius,male
+163,1904,GBR,London,chemistry,Sir William,Ramsay,male
+164,1905,DEU,Munich,chemistry,Johann Friedrich Wilhelm Adolf,von Baeyer,male
+165,1906,FRA,Paris,chemistry,Henri,Moissan,male
+166,1907,DEU,Berlin,chemistry,Eduard,Buchner,male
+167,1908,GBR,Manchester,chemistry,Ernest,Rutherford,male
+168,1909,DEU,Leipzig,chemistry,Wilhelm,Ostwald,male
+169,1910,DEU,Göttingen,chemistry,Otto,Wallach,male
+170,1912,FRA,Nancy,chemistry,Victor,Grignard,male
+171,1912,FRA,Toulouse,chemistry,Paul,Sabatier,male
+172,1913,CHE,Zurich,chemistry,Alfred,Werner,male
+173,1914,USA,"Cambridge, MA",chemistry,Theodore William,Richards,male
+174,1915,DEU,Munich,chemistry,Richard Martin,Willstätter,male
+175,1918,DEU,Berlin-Dahlem,chemistry,Fritz,Haber,male
+176,1920,DEU,Berlin,chemistry,Walther Hermann,Nernst,male
+177,1921,GBR,Oxford,chemistry,Frederick,Soddy,male
+178,1922,GBR,Cambridge,chemistry,Francis William,Aston,male
+179,1923,AUT,Graz,chemistry,Fritz,Pregl,male
+180,1925,DEU,Göttingen,chemistry,Richard Adolf,Zsigmondy,male
+181,1926,SWE,Uppsala,chemistry,The (Theodor),Svedberg,male
+182,1927,DEU,Munich,chemistry,Heinrich Otto,Wieland,male
+183,1928,DEU,Göttingen,chemistry,Adolf Otto Reinhold,Windaus,male
+184,1929,GBR,London,chemistry,Arthur,Harden,male
+185,1929,SWE,Stockholm,chemistry,Hans Karl August Simon,von Euler-Chelpin,male
+186,1930,DEU,Munich,chemistry,Hans,Fischer,male
+187,1931,DEU,Heidelberg,chemistry,Carl,Bosch,male
+188,1931,DEU,Heidelberg,chemistry,Friedrich,Bergius,male
+189,1932,USA,"Schenectady, NY",chemistry,Irving,Langmuir,male
+190,1934,USA,"New York, NY",chemistry,Harold Clayton,Urey,male
+191,1935,FRA,Paris,chemistry,Frédéric,Joliot,male
+192,1935,FRA,Paris,chemistry,Irène,Joliot-Curie,female
+193,1936,DEU,Berlin,chemistry,Petrus (Peter) Josephus Wilhelmus,Debye,male
+194,1937,GBR,Birmingham,chemistry,Walter Norman,Haworth,male
+195,1937,CHE,Zurich,chemistry,Paul,Karrer,male
+196,1938,DEU,Heidelberg,chemistry,Richard,Kuhn,male
+197,1939,DEU,Berlin-Dahlem,chemistry,Adolf Friedrich Johann,Butenandt,male
+198,1939,CHE,Zurich,chemistry,Leopold,Ruzicka,male
+199,1943,SWE,Stockholm,chemistry,George,de Hevesy,male
+200,1944,DEU,Berlin-Dahlem,chemistry,Otto,Hahn,male
+201,1945,FIN,Helsinki,chemistry,Artturi Ilmari,Virtanen,male
+202,1946,USA,"Ithaca, NY",chemistry,James Batcheller,Sumner,male
+203,1946,USA,"Princeton, NJ",chemistry,John Howard,Northrop,male
+204,1946,USA,"Princeton, NJ",chemistry,Wendell Meredith,Stanley,male
+205,1947,GBR,Oxford,chemistry,Sir Robert,Robinson,male
+206,1948,SWE,Uppsala,chemistry,Arne Wilhelm Kaurin,Tiselius,male
+207,1949,USA,"Berkeley, CA",chemistry,William Francis,Giauque,male
+208,1950,,Kiel,chemistry,Otto Paul Hermann,Diels,male
+209,1950,,Cologne,chemistry,Kurt,Alder,male
+210,1951,USA,"Berkeley, CA",chemistry,Edwin Mattison,McMillan,male
+211,1951,USA,"Berkeley, CA",chemistry,Glenn Theodore,Seaborg,male
+212,1952,GBR,London,chemistry,Archer John Porter,Martin,male
+213,1952,GBR,Bucksburn (Scotland),chemistry,Richard Laurence Millington,Synge,male
+214,1953,,Breisgau,chemistry,Hermann,Staudinger,male
+215,1954,USA,"Pasadena, CA",chemistry,Linus Carl,Pauling,male
+216,1962,USA,"Pasadena, CA",peace,Linus Carl,Pauling,male
+217,1955,USA,"Ithaca, NY",chemistry,Vincent,du Vigneaud,male
+218,1956,GBR,Oxford,chemistry,Sir Cyril Norman,Hinshelwood,male
+219,1956,,Moscow,chemistry,Nikolay Nikolaevich,Semenov,male
+220,1957,GBR,Cambridge,chemistry,Lord (Alexander R.),Todd,male
+221,1958,GBR,Cambridge,chemistry,Frederick,Sanger,male
+222,1980,GBR,Cambridge,chemistry,Frederick,Sanger,male
+223,1959,,Prague,chemistry,Jaroslav,Heyrovsky,male
+224,1960,USA,"Los Angeles, CA",chemistry,Willard Frank,Libby,male
+225,1961,USA,"Berkeley, CA",chemistry,Melvin,Calvin,male
+226,1962,GBR,Cambridge,chemistry,Max Ferdinand,Perutz,male
+227,1962,GBR,Cambridge,chemistry,John Cowdery,Kendrew,male
+228,1963,,Mülheim/Ruhr,chemistry,Karl,Ziegler,male
+229,1963,ITA,Milan,chemistry,Giulio,Natta,male
+230,1964,GBR,Oxford,chemistry,Dorothy Crowfoot,Hodgkin,female
+231,1965,USA,"Cambridge, MA",chemistry,Robert Burns,Woodward,male
+232,1966,USA,"Chicago, IL",chemistry,Robert S.,Mulliken,male
+233,1967,,Göttingen,chemistry,Manfred,Eigen,male
+234,1967,GBR,Cambridge,chemistry,Ronald George Wreyford,Norrish,male
+235,1967,GBR,London,chemistry,George,Porter,male
+236,1968,USA,"New Haven, CT",chemistry,Lars,Onsager,male
+237,1969,GBR,London,chemistry,Derek H. R.,Barton,male
+238,1969,NOR,Oslo,chemistry,Odd,Hassel,male
+239,1970,ARG,Buenos Aires,chemistry,Luis F.,Leloir,male
+240,1971,CAN,Ottawa,chemistry,Gerhard,Herzberg,male
+241,1972,USA,"Bethesda, MD",chemistry,Christian B.,Anfinsen,male
+242,1972,USA,"New York, NY",chemistry,Stanford,Moore,male
+243,1972,USA,"New York, NY",chemistry,William H.,Stein,male
+244,1973,,Munich,chemistry,Ernst Otto,Fischer,male
+245,1973,GBR,London,chemistry,Geoffrey,Wilkinson,male
+246,1974,USA,"Stanford, CA",chemistry,Paul J.,Flory,male
+247,1975,GBR,Brighton,chemistry,John Warcup,Cornforth,male
+248,1975,CHE,Zurich,chemistry,Vladimir,Prelog,male
+249,1976,USA,"Cambridge, MA",chemistry,William N.,Lipscomb,male
+250,1977,BEL,Brussels,chemistry,Ilya,Prigogine,male
+251,1978,GBR,Bodmin,chemistry,Peter D.,Mitchell,male
+252,1979,USA,"West Lafayette, IN",chemistry,Herbert C.,Brown,male
+253,1979,,Heidelberg,chemistry,Georg,Wittig,male
+254,1980,USA,"Stanford, CA",chemistry,Paul,Berg,male
+255,1980,USA,"Cambridge, MA",chemistry,Walter,Gilbert,male
+256,1981,JPN,Kyoto,chemistry,Kenichi,Fukui,male
+257,1981,USA,"Ithaca, NY",chemistry,Roald,Hoffmann,male
+258,1982,GBR,Cambridge,chemistry,Aaron,Klug,male
+259,1983,USA,"Stanford, CA",chemistry,Henry,Taube,male
+260,1984,USA,"New York, NY",chemistry,Robert Bruce,Merrifield,male
+261,1985,USA,"Buffalo, NY",chemistry,Herbert A.,Hauptman,male
+262,1985,USA,"Washington, DC",chemistry,Jerome,Karle,male
+263,1986,USA,"Cambridge, MA",chemistry,Dudley R.,Herschbach,male
+264,1986,USA,"Berkeley, CA",chemistry,Yuan T.,Lee,male
+265,1986,CAN,Toronto,chemistry,John C.,Polanyi,male
+266,1987,USA,"Los Angeles, CA",chemistry,Donald J.,Cram,male
+267,1987,FRA,Strasbourg,chemistry,Jean-Marie,Lehn,male
+268,1987,USA,"Wilmington, DE",chemistry,Charles J.,Pedersen,male
+269,1988,USA,"Dallas, TX",chemistry,Johann,Deisenhofer,male
+270,1988,,Martinsried,chemistry,Robert,Huber,male
+271,1988,,Frankfurt-on-the-Main,chemistry,Hartmut,Michel,male
+272,1989,USA,"New Haven, CT",chemistry,Sidney,Altman,male
+273,1989,USA,"Boulder, CO",chemistry,Thomas R.,Cech,male
+274,1990,USA,"Cambridge, MA",chemistry,Elias James,Corey,male
+275,1991,CHE,Zurich,chemistry,Richard R.,Ernst,male
+276,1992,USA,"Pasadena, CA",chemistry,Rudolph A.,Marcus,male
+277,1993,USA,"La Jolla, CA",chemistry,Kary B.,Mullis,male
+278,1993,CAN,Vancouver,chemistry,Michael,Smith,male
+279,1994,USA,"Los Angeles, CA",chemistry,George A.,Olah,male
+280,1995,,Mainz,chemistry,Paul J.,Crutzen,male
+281,1995,USA,"Cambridge, MA",chemistry,Mario J.,Molina,male
+282,1995,USA,"Irvine, CA",chemistry,F. Sherwood,Rowland,male
+283,1996,USA,"Houston, TX",chemistry,Robert F.,Curl Jr.,male
+284,1996,GBR,Brighton,chemistry,Sir Harold W.,Kroto,male
+285,1996,USA,"Houston, TX",chemistry,Richard E.,Smalley,male
+286,1997,USA,"Los Angeles, CA",chemistry,Paul D.,Boyer,male
+287,1997,GBR,Cambridge,chemistry,John E.,Walker,male
+288,1997,DNK,Aarhus,chemistry,Jens C.,Skou,male
+289,1998,USA,"Santa Barbara, CA",chemistry,Walter,Kohn,male
+290,1998,USA,"Evanston, IL",chemistry,John A.,Pople,male
+291,1999,USA,"Pasadena, CA",chemistry,Ahmed H.,Zewail,male
+292,1901,DEU,Marburg,medicine,Emil Adolf,von Behring,male
+293,1902,GBR,Liverpool,medicine,Ronald,Ross,male
+294,1903,DNK,Copenhagen,medicine,Niels Ryberg,Finsen,male
+295,1904,,St. Petersburg,medicine,Ivan Petrovich,Pavlov,male
+296,1905,DEU,Berlin,medicine,Robert,Koch,male
+297,1906,ITA,Pavia,medicine,Camillo,Golgi,male
+298,1906,ESP,Madrid,medicine,Santiago,Ramón y Cajal,male
+299,1907,FRA,Paris,medicine,Charles Louis Alphonse,Laveran,male
+300,1908,FRA,Paris,medicine,Ilya Ilyich,Mechnikov,male
+301,1908,DEU,Göttingen,medicine,Paul,Ehrlich,male
+302,1909,CHE,Berne,medicine,Emil Theodor,Kocher,male
+303,1910,DEU,Heidelberg,medicine,Albrecht,Kossel,male
+304,1911,SWE,Uppsala,medicine,Allvar,Gullstrand,male
+305,1912,USA,"New York, NY",medicine,Alexis,Carrel,male
+306,1913,FRA,Paris,medicine,Charles Robert,Richet,male
+307,1914,AUT,Vienna,medicine,Robert,Bárány,male
+308,1919,BEL,Brussels,medicine,Jules,Bordet,male
+309,1920,DNK,Copenhagen,medicine,Schack August Steenberg,Krogh,male
+310,1922,GBR,London,medicine,Archibald Vivian,Hill,male
+311,1922,DEU,Kiel,medicine,Otto Fritz,Meyerhof,male
+312,1923,CAN,Toronto,medicine,Frederick Grant,Banting,male
+313,1923,CAN,Toronto,medicine,John James Rickard,Macleod,male
+314,1924,,Leiden,medicine,Willem,Einthoven,male
+315,1926,DNK,Copenhagen,medicine,Johannes Andreas Grib,Fibiger,male
+316,1927,AUT,Vienna,medicine,Julius,Wagner-Jauregg,male
+317,1928,,Tunis,medicine,Charles Jules Henri,Nicolle,male
+318,1929,,Utrecht,medicine,Christiaan,Eijkman,male
+319,1929,GBR,Cambridge,medicine,Sir Frederick Gowland,Hopkins,male
+320,1930,USA,"New York, NY",medicine,Karl,Landsteiner,male
+321,1931,DEU,Berlin-Dahlem,medicine,Otto Heinrich,Warburg,male
+322,1932,GBR,Oxford,medicine,Sir Charles Scott,Sherrington,male
+323,1932,GBR,Cambridge,medicine,Edgar Douglas,Adrian,male
+324,1933,USA,"Pasadena, CA",medicine,Thomas Hunt,Morgan,male
+325,1934,USA,"Rochester, NY",medicine,George Hoyt,Whipple,male
+326,1934,USA,"Cambridge, MA",medicine,George Richards,Minot,male
+327,1934,USA,"Cambridge, MA",medicine,William Parry,Murphy,male
+328,1935,DEU,Breisgau,medicine,Hans,Spemann,male
+329,1936,GBR,London,medicine,Sir Henry Hallett,Dale,male
+330,1936,AUT,Graz,medicine,Otto,Loewi,male
+331,1937,HUN,Szeged,medicine,Albert,von Szent-Györgyi Nagyrápolt,male
+332,1938,BEL,Ghent,medicine,Corneille Jean François,Heymans,male
+333,1939,DEU,Munster,medicine,Gerhard,Domagk,male
+334,1943,DNK,Copenhagen,medicine,Henrik Carl Peter,Dam,male
+335,1943,USA,"St. Louis, MO",medicine,Edward Adelbert,Doisy,male
+336,1944,USA,"St. Louis, MO",medicine,Joseph,Erlanger,male
+337,1944,USA,"New York, NY",medicine,Herbert Spencer,Gasser,male
+338,1945,GBR,London,medicine,Sir Alexander,Fleming,male
+339,1945,GBR,Oxford,medicine,Ernst Boris,Chain,male
+340,1945,GBR,Oxford,medicine,Sir Howard Walter,Florey,male
+341,1946,USA,"Bloomington, IN",medicine,Hermann Joseph,Muller,male
+342,1947,USA,"St. Louis, MO",medicine,Carl Ferdinand,Cori,male
+343,1947,USA,"St. Louis, MO",medicine,Gerty Theresa,"Cori, née Radnitz",female
+344,1947,ARG,Buenos Aires,medicine,Bernardo Alberto,Houssay,male
+345,1948,CHE,Basel,medicine,Paul Hermann,Müller,male
+346,1949,CHE,Zurich,medicine,Walter Rudolf,Hess,male
+347,1949,PRT,Lisbon,medicine,Antonio Caetano de Abreu Freire Egas,Moniz,male
+348,1950,USA,"Rochester, MN",medicine,Edward Calvin,Kendall,male
+349,1950,CHE,Basel,medicine,Tadeus,Reichstein,male
+350,1950,USA,"Rochester, MN",medicine,Philip Showalter,Hench,male
+351,1951,USA,"New York, NY",medicine,Max,Theiler,male
+352,1952,USA,"New Brunswick, NJ",medicine,Selman Abraham,Waksman,male
+353,1953,GBR,Sheffield,medicine,Hans Adolf,Krebs,male
+354,1953,USA,"Boston, MA",medicine,Fritz Albert,Lipmann,male
+355,1954,USA,"Boston, MA",medicine,John Franklin,Enders,male
+356,1954,USA,"Boston, MA",medicine,Thomas Huckle,Weller,male
+357,1954,USA,"Cleveland, OH",medicine,Frederick Chapman,Robbins,male
+358,1955,SWE,Stockholm,medicine,Axel Hugo Theodor,Theorell,male
+359,1956,USA,"New York, NY",medicine,André Frédéric,Cournand,male
+360,1956,,Mainz,medicine,Werner,Forssmann,male
+361,1956,USA,"New York, NY",medicine,Dickinson W.,Richards,male
+362,1957,ITA,Rome,medicine,Daniel,Bovet,male
+363,1958,USA,"Pasadena, CA",medicine,George Wells,Beadle,male
+364,1958,USA,"New York, NY",medicine,Edward Lawrie,Tatum,male
+365,1958,USA,"Madison, WI",medicine,Joshua,Lederberg,male
+366,1959,USA,"New York, NY",medicine,Severo,Ochoa,male
+367,1959,USA,"Stanford, CA",medicine,Arthur,Kornberg,male
+368,1960,AUS,Melbourne,medicine,Sir Frank Macfarlane,Burnet,male
+369,1960,GBR,London,medicine,Peter Brian,Medawar,male
+370,1961,USA,"Cambridge, MA",medicine,Georg,von Békésy,male
+371,1962,GBR,Cambridge,medicine,Francis Harry Compton,Crick,male
+372,1962,USA,"Cambridge, MA",medicine,James Dewey,Watson,male
+373,1962,GBR,London,medicine,Maurice Hugh Frederick,Wilkins,male
+374,1963,AUS,Canberra,medicine,Sir John Carew,Eccles,male
+375,1963,GBR,Cambridge,medicine,Alan Lloyd,Hodgkin,male
+376,1963,GBR,London,medicine,Andrew Fielding,Huxley,male
+377,1964,USA,"Cambridge, MA",medicine,Konrad,Bloch,male
+378,1964,,Munich,medicine,Feodor,Lynen,male
+379,1965,FRA,Paris,medicine,François,Jacob,male
+380,1965,FRA,Paris,medicine,André,Lwoff,male
+381,1965,FRA,Paris,medicine,Jacques,Monod,male
+382,1966,USA,"New York, NY",medicine,Peyton,Rous,male
+383,1966,USA,"Chicago, IL",medicine,Charles Brenton,Huggins,male
+384,1967,SWE,Stockholm,medicine,Ragnar,Granit,male
+385,1967,USA,"New York, NY",medicine,Haldan Keffer,Hartline,male
+386,1967,USA,"Cambridge, MA",medicine,George,Wald,male
+387,1968,USA,"Ithaca, NY",medicine,Robert W.,Holley,male
+388,1968,USA,"Madison, WI",medicine,Har Gobind,Khorana,male
+389,1968,USA,"Bethesda, MD",medicine,Marshall W.,Nirenberg,male
+390,1969,USA,"Pasadena, CA",medicine,Max,Delbrück,male
+391,1969,USA,"Long Island, New York, NY",medicine,Alfred D.,Hershey,male
+392,1969,USA,"Cambridge, MA",medicine,Salvador E.,Luria,male
+393,1970,GBR,London,medicine,Sir Bernard,Katz,male
+394,1970,SWE,Stockholm,medicine,Ulf,von Euler,male
+395,1970,USA,"Bethesda, MD",medicine,Julius,Axelrod,male
+396,1971,USA,"Nashville, TN",medicine,Earl W.,"Sutherland, Jr.",male
+397,1972,USA,"New York, NY",medicine,Gerald M.,Edelman,male
+398,1972,GBR,Oxford,medicine,Rodney R.,Porter,male
+399,1973,,Munich,medicine,Karl,von Frisch,male
+400,1973,AUT,Altenberg; Grünau im Almtal,medicine,Konrad,Lorenz,male
+401,1973,GBR,Oxford,medicine,Nikolaas,Tinbergen,male
+402,1974,BEL,Louvain,medicine,Albert,Claude,male
+403,1974,USA,"New York, NY",medicine,Christian,de Duve,male
+404,1974,USA,"New Haven, CT",medicine,George E.,Palade,male
+405,1975,USA,"Cambridge, MA",medicine,David,Baltimore,male
+406,1975,GBR,London,medicine,Renato,Dulbecco,male
+407,1975,USA,"Madison, WI",medicine,Howard Martin,Temin,male
+408,1976,USA,"Philadelphia, PA",medicine,Baruch S.,Blumberg,male
+409,1976,USA,"Bethesda, MD",medicine,D. Carleton,Gajdusek,male
+410,1977,USA,"San Diego, CA",medicine,Roger,Guillemin,male
+411,1977,USA,"New Orleans, LA",medicine,Andrew V.,Schally,male
+412,1977,USA,"Bronx, NY",medicine,Rosalyn,Yalow,female
+413,1978,CHE,Basel,medicine,Werner,Arber,male
+414,1978,USA,"Baltimore, MD",medicine,Daniel,Nathans,male
+415,1978,USA,"Baltimore, MD",medicine,Hamilton O.,Smith,male
+416,1979,USA,"Medford, MA",medicine,Allan M.,Cormack,male
+417,1979,GBR,London,medicine,Godfrey N.,Hounsfield,male
+418,1980,USA,"Boston, MA",medicine,Baruj,Benacerraf,male
+419,1980,FRA,Paris,medicine,Jean,Dausset,male
+420,1980,USA,"Bar Harbor, ME",medicine,George D.,Snell,male
+421,1981,USA,"Pasadena, CA",medicine,Roger W.,Sperry,male
+422,1981,USA,"Boston, MA",medicine,David H.,Hubel,male
+423,1981,USA,"Boston, MA",medicine,Torsten N.,Wiesel,male
+424,1982,SWE,Stockholm,medicine,Sune K.,Bergström,male
+425,1982,SWE,Stockholm,medicine,Bengt I.,Samuelsson,male
+426,1982,GBR,Beckenham,medicine,John R.,Vane,male
+427,1983,USA,"Cold Spring Harbor, NY",medicine,Barbara,McClintock,female
+428,1984,CHE,Basel,medicine,Niels K.,Jerne,male
+429,1984,CHE,Basel,medicine,Georges J.F.,Köhler,male
+430,1984,GBR,Cambridge,medicine,César,Milstein,male
+431,1985,USA,"Dallas, TX",medicine,Michael S.,Brown,male
+432,1985,USA,"Dallas, TX",medicine,Joseph L.,Goldstein,male
+433,1986,USA,"Nashville, TN",medicine,Stanley,Cohen,male
+434,1986,ITA,Rome,medicine,Rita,Levi-Montalcini,female
+435,1987,USA,"Cambridge, MA",medicine,Susumu,Tonegawa,male
+436,1988,GBR,London,medicine,Sir James W.,Black,male
+437,1988,USA,"Research Triangle Park, NC",medicine,Gertrude B.,Elion,female
+438,1988,USA,"Research Triangle Park, NC",medicine,George H.,Hitchings,male
+439,1989,USA,"San Francisco, CA",medicine,J. Michael,Bishop,male
+440,1989,USA,"San Francisco, CA",medicine,Harold E.,Varmus,male
+441,1990,USA,"Boston, MA",medicine,Joseph E.,Murray,male
+442,1990,USA,"Seattle, WA",medicine,E. Donnall,Thomas,male
+443,1991,,Göttingen,medicine,Erwin,Neher,male
+444,1991,,Heidelberg,medicine,Bert,Sakmann,male
+445,1992,USA,"Seattle, WA",medicine,Edmond H.,Fischer,male
+446,1992,USA,"Seattle, WA",medicine,Edwin G.,Krebs,male
+447,1993,USA,"Beverly, MA",medicine,Richard J.,Roberts,male
+448,1993,USA,"Cambridge, MA",medicine,Phillip A.,Sharp,male
+449,1994,USA,"Dallas, TX",medicine,Alfred G.,Gilman,male
+450,1994,USA,"Research Triangle Park, NC",medicine,Martin,Rodbell,male
+451,1995,USA,"Pasadena, CA",medicine,Edward B.,Lewis,male
+452,1995,,Tübingen,medicine,Christiane,Nüsslein-Volhard,female
+453,1995,USA,"Princeton, NJ",medicine,Eric F.,Wieschaus,male
+454,1996,USA,"Memphis, TN",medicine,Peter C.,Doherty,male
+455,1996,CHE,Zurich,medicine,Rolf M.,Zinkernagel,male
+456,1997,USA,"San Francisco, CA",medicine,Stanley B.,Prusiner,male
+457,1998,USA,"Brooklyn, NY",medicine,Robert F.,Furchgott,male
+458,1998,USA,"Los Angeles, CA",medicine,Louis J.,Ignarro,male
+459,1998,USA,"Houston, TX",medicine,Ferid,Murad,male
+460,1999,USA,"New York, NY",medicine,Günter,Blobel,male
+461,1901,,,peace,Jean Henry,Dunant,male
+462,1901,,,peace,Frédéric,Passy,male
+463,1902,,,peace,Élie,Ducommun,male
+464,1902,,,peace,Charles Albert,Gobat,male
+465,1903,,,peace,William Randal,Cremer,male
+466,1905,,,peace,Baroness Bertha Sophie Felicita,"von Suttner, née Countess Kinsky von Chinic und Tettau",female
+467,1906,,,peace,Theodore,Roosevelt,male
+468,1907,,,peace,Ernesto Teodoro,Moneta,male
+469,1907,FRA,Paris,peace,Louis,Renault,male
+470,1908,,,peace,Klas Pontus,Arnoldson,male
+471,1908,,,peace,Fredrik,Bajer,male
+472,1909,,,peace,Auguste Marie François,Beernaert,male
+473,1909,,,peace,Paul Henri Benjamin Balluet,"d'Estournelles de Constant, Baron de Constant de Rebecque",male
+474,1911,,,peace,Tobias Michael Carel,Asser,male
+475,1911,,,peace,Alfred Hermann,Fried,male
+476,1912,,,peace,Elihu,Root,male
+477,1913,,,peace,Henri,La Fontaine,male
+478,1919,,,peace,Thomas Woodrow,Wilson,male
+479,1920,,,peace,Léon Victor Auguste,Bourgeois,male
+480,1921,,,peace,Karl Hjalmar,Branting,male
+481,1921,,,peace,Christian Lous,Lange,male
+482,1922,,,peace,Fridtjof,Nansen,male
+483,1925,,,peace,Sir Austen,Chamberlain,male
+484,1925,,,peace,Charles Gates,Dawes,male
+485,1926,,,peace,Aristide,Briand,male
+486,1926,,,peace,Gustav,Stresemann,male
+487,1927,,,peace,Ferdinand,Buisson,male
+488,1927,,,peace,Ludwig,Quidde,male
+489,1929,,,peace,Frank Billings,Kellogg,male
+490,1930,,,peace,Lars Olof Jonathan (Nathan),Söderblom,male
+491,1931,,,peace,Jane,Addams,female
+492,1931,USA,"New York, NY",peace,Nicholas Murray,Butler,male
+493,1933,,,peace,Sir Norman,Angell (Ralph Lane),male
+494,1934,,,peace,Arthur,Henderson,male
+495,1935,,,peace,Carl,von Ossietzky,male
+496,1936,,,peace,Carlos,Saavedra Lamas,male
+497,1937,,,peace,"Cecil of Chelwood, Viscount",(Lord Edgar Algernon Robert Gascoyne Cecil),male
+498,1945,,,peace,Cordell,Hull,male
+499,1946,,,peace,Emily Greene,Balch,female
+500,1946,,,peace,John Raleigh,Mott,male
+501,1949,,,peace,Lord (John),Boyd Orr of Brechin,male
+502,1950,USA,"Cambridge, MA",peace,Ralph,Bunche,male
+503,1951,,,peace,Léon,Jouhaux,male
+504,1952,,,peace,Albert,Schweitzer,male
+505,1953,,,peace,George Catlett,Marshall,male
+506,1957,,,peace,Lester Bowles,Pearson,male
+507,1958,,,peace,Georges,Pire,male
+508,1959,,,peace,Philip J.,Noel-Baker,male
+509,1960,,,peace,Albert John,Lutuli,male
+510,1961,,,peace,Dag Hjalmar Agne Carl,Hammarskjöld,male
+511,1964,,,peace,Martin Luther,King Jr.,male
+512,1968,,,peace,René,Cassin,male
+513,1970,,,peace,Norman E.,Borlaug,male
+514,1971,,,peace,Willy,Brandt,male
+515,1973,,,peace,Henry A.,Kissinger,male
+516,1973,,,peace,Le Duc Tho,,male
+517,1974,,,peace,Seán,MacBride,male
+518,1974,,,peace,Eisaku,Sato,male
+519,1975,,,peace,Andrei Dmitrievich,Sakharov,male
+520,1976,,,peace,Betty,Williams,female
+521,1976,,,peace,Mairead,Corrigan,female
+522,1978,,,peace,Mohamed Anwar,al-Sadat,male
+523,1978,,,peace,Menachem,Begin,male
+524,1979,,,peace,Mother Teresa,,female
+525,1980,,,peace,Adolfo,Pérez Esquivel,male
+526,1982,,,peace,Alva,Myrdal,female
+527,1982,,,peace,Alfonso,García Robles,male
+528,1983,,,peace,Lech,Walesa,male
+529,1984,,,peace,Desmond Mpilo,Tutu,male
+530,1986,,,peace,Elie,Wiesel,male
+531,1987,,,peace,Oscar,Arias Sánchez,male
+532,1989,,,peace,The 14th Dalai Lama (Tenzin Gyatso),,male
+533,1990,,,peace,Mikhail Sergeyevich,Gorbachev,male
+534,1991,,,peace,Aung San Suu Kyi,,female
+535,1992,,,peace,Rigoberta,Menchú Tum,female
+536,1993,,,peace,Nelson,Mandela,male
+537,1993,,,peace,Frederik Willem,de Klerk,male
+538,1994,,,peace,Yasser,Arafat,male
+539,1994,,,peace,Shimon,Peres,male
+540,1994,,,peace,Yitzhak,Rabin,male
+541,1995,,,peace,Joseph,Rotblat,male
+542,1996,,,peace,Carlos Filipe Ximenes,Belo,male
+543,1996,,,peace,José,Ramos-Horta,male
+544,1997,,,peace,Jody,Williams,female
+545,1998,,,peace,John,Hume,male
+546,1998,,,peace,David,Trimble,male
+547,1901,,,literature,Sully,Prudhomme,male
+548,1902,,,literature,Christian Matthias Theodor,Mommsen,male
+549,1903,,,literature,Bjørnstjerne Martinus,Bjørnson,male
+550,1904,,,literature,Frédéric,Mistral,male
+551,1904,,,literature,José,Echegaray y Eizaguirre,male
+552,1905,,,literature,Henryk,Sienkiewicz,male
+553,1906,,,literature,Giosuè,Carducci,male
+554,1907,,,literature,Rudyard,Kipling,male
+555,1908,,,literature,Rudolf Christoph,Eucken,male
+556,1909,,,literature,Selma Ottilia Lovisa,Lagerlöf,female
+557,1910,,,literature,Paul Johann Ludwig,Heyse,male
+558,1911,,,literature,Count Maurice (Mooris) Polidore Marie Bernhard,Maeterlinck,male
+559,1912,,,literature,Gerhart Johann Robert,Hauptmann,male
+560,1913,,,literature,Rabindranath,Tagore,male
+561,1915,,,literature,Romain,Rolland,male
+562,1916,,,literature,Carl Gustaf Verner,von Heidenstam,male
+563,1917,,,literature,Karl Adolph,Gjellerup,male
+564,1917,,,literature,Henrik,Pontoppidan,male
+565,1919,,,literature,Carl Friedrich Georg,Spitteler,male
+566,1920,,,literature,Knut Pedersen,Hamsun,male
+567,1921,,,literature,Anatole,France,male
+568,1922,,,literature,Jacinto,Benavente,male
+569,1923,,,literature,William Butler,Yeats,male
+570,1924,,,literature,Wladyslaw Stanislaw,Reymont,male
+571,1925,,,literature,George Bernard,Shaw,male
+572,1926,,,literature,Grazia,Deledda,female
+573,1927,,,literature,Henri,Bergson,male
+574,1928,,,literature,Sigrid,Undset,female
+575,1929,,,literature,Thomas,Mann,male
+576,1930,,,literature,Sinclair,Lewis,male
+577,1931,,,literature,Erik Axel,Karlfeldt,male
+578,1932,,,literature,John,Galsworthy,male
+579,1933,,,literature,Ivan Alekseyevich,Bunin,male
+580,1934,,,literature,Luigi,Pirandello,male
+581,1936,,,literature,Eugene Gladstone,O'Neill,male
+582,1937,,,literature,Roger,Martin du Gard,male
+583,1938,,,literature,Pearl,Buck,female
+584,1939,,,literature,Frans Eemil,Sillanpää,male
+585,1944,,,literature,Johannes Vilhelm,Jensen,male
+586,1945,,,literature,Gabriela,Mistral,female
+587,1946,,,literature,Hermann,Hesse,male
+588,1947,,,literature,André Paul Guillaume,Gide,male
+589,1948,,,literature,Thomas Stearns,Eliot,male
+590,1949,,,literature,William,Faulkner,male
+591,1950,,,literature,Earl (Bertrand Arthur William),Russell,male
+592,1951,,,literature,Pär Fabian,Lagerkvist,male
+593,1952,,,literature,François,Mauriac,male
+594,1953,,,literature,Sir Winston Leonard Spencer,Churchill,male
+595,1954,,,literature,Ernest Miller,Hemingway,male
+596,1955,,,literature,Halldór Kiljan,Laxness,male
+597,1956,,,literature,Juan Ramón,Jiménez,male
+598,1957,,,literature,Albert,Camus,male
+599,1958,,,literature,Boris Leonidovich,Pasternak,male
+600,1959,,,literature,Salvatore,Quasimodo,male
+601,1960,,,literature,Saint-John,Perse,male
+602,1961,,,literature,Ivo,Andric,male
+603,1962,,,literature,John,Steinbeck,male
+604,1963,,,literature,Giorgos,Seferis,male
+605,1964,,,literature,Jean-Paul,Sartre,male
+606,1965,,,literature,Mikhail Aleksandrovich,Sholokhov,male
+607,1966,,,literature,Shmuel Yosef,Agnon,male
+608,1966,,,literature,Nelly,Sachs,female
+609,1967,,,literature,Miguel Angel,Asturias,male
+610,1968,,,literature,Yasunari,Kawabata,male
+611,1969,,,literature,Samuel,Beckett,male
+612,1970,,,literature,Aleksandr Isayevich,Solzhenitsyn,male
+613,1971,,,literature,Pablo,Neruda,male
+614,1972,,,literature,Heinrich,Böll,male
+615,1973,,,literature,Patrick,White,male
+616,1974,,,literature,Eyvind,Johnson,male
+617,1974,,,literature,Harry,Martinson,male
+618,1975,,,literature,Eugenio,Montale,male
+619,1976,,,literature,Saul,Bellow,male
+620,1977,,,literature,Vicente,Aleixandre,male
+621,1978,,,literature,Isaac Bashevis,Singer,male
+622,1979,,,literature,Odysseus,Elytis,male
+623,1980,,,literature,Czeslaw,Milosz,male
+624,1981,,,literature,Elias,Canetti,male
+625,1982,,,literature,Gabriel,García Márquez,male
+626,1983,,,literature,William,Golding,male
+627,1984,,,literature,Jaroslav,Seifert,male
+628,1985,,,literature,Claude,Simon,male
+629,1986,,,literature,Wole,Soyinka,male
+630,1987,,,literature,Joseph,Brodsky,male
+631,1988,,,literature,Naguib,Mahfouz,male
+632,1989,,,literature,Camilo José,Cela,male
+633,1990,,,literature,Octavio,Paz,male
+634,1991,,,literature,Nadine,Gordimer,female
+635,1992,,,literature,Derek,Walcott,male
+636,1993,,,literature,Toni,Morrison,female
+637,1994,,,literature,Kenzaburo,Oe,male
+638,1995,,,literature,Seamus,Heaney,male
+639,1996,,,literature,Wislawa,Szymborska,female
+640,1997,,,literature,Dario,Fo,male
+641,1998,,,literature,José,Saramago,male
+642,1999,,,literature,Günter,Grass,male
+643,1969,NOR,Oslo,economics,Ragnar,Frisch,male
+644,1969,,Rotterdam,economics,Jan,Tinbergen,male
+645,1970,USA,"Cambridge, MA",economics,Paul A.,Samuelson,male
+646,1971,USA,"Cambridge, MA",economics,Simon,Kuznets,male
+647,1972,GBR,Oxford,economics,John R.,Hicks,male
+648,1972,USA,"Cambridge, MA",economics,Kenneth J.,Arrow,male
+649,1973,USA,"Cambridge, MA",economics,Wassily,Leontief,male
+650,1974,,,economics,Gunnar,Myrdal,male
+651,1974,,,economics,Friedrich August,von Hayek,male
+652,1975,,Moscow,economics,Leonid Vitaliyevich,Kantorovich,male
+653,1975,USA,"New Haven, CT",economics,Tjalling C.,Koopmans,male
+654,1976,USA,"Chicago, IL",economics,Milton,Friedman,male
+655,1977,SWE,Stockholm,economics,Bertil,Ohlin,male
+656,1977,GBR,Cambridge,economics,James E.,Meade,male
+657,1978,USA,"Pittsburgh, PA",economics,Herbert A.,Simon,male
+658,1979,USA,"Chicago, IL",economics,Theodore W.,Schultz,male
+659,1979,USA,"Princeton, NJ",economics,Sir Arthur,Lewis,male
+660,1980,USA,"Philadelphia, PA",economics,Lawrence R.,Klein,male
+661,1981,USA,"New Haven, CT",economics,James,Tobin,male
+662,1982,USA,"Chicago, IL",economics,George J.,Stigler,male
+663,1983,USA,"Berkeley, CA",economics,Gerard,Debreu,male
+664,1984,GBR,Cambridge,economics,Richard,Stone,male
+665,1985,USA,"Cambridge, MA",economics,Franco,Modigliani,male
+666,1986,USA,"Fairfax, VA",economics,James M.,Buchanan Jr.,male
+667,1987,USA,"Cambridge, MA",economics,Robert M.,Solow,male
+668,1988,FRA,Paris,economics,Maurice,Allais,male
+669,1989,NOR,Oslo,economics,Trygve,Haavelmo,male
+670,1990,USA,"New York, NY",economics,Harry M.,Markowitz,male
+671,1990,USA,"Chicago, IL",economics,Merton H.,Miller,male
+672,1990,USA,"Stanford, CA",economics,William F.,Sharpe,male
+673,1991,USA,"Chicago, IL",economics,Ronald H.,Coase,male
+674,1992,USA,"Chicago, IL",economics,Gary S.,Becker,male
+675,1993,USA,"Chicago, IL",economics,Robert W.,Fogel,male
+676,1993,USA,"St. Louis, MO",economics,Douglass C.,North,male
+677,1994,USA,"Berkeley, CA",economics,John C.,Harsanyi,male
+678,1994,USA,"Princeton, NJ",economics,John F.,Nash Jr.,male
+679,1994,,Bonn,economics,Reinhard,Selten,male
+680,1995,USA,"Chicago, IL",economics,Robert E.,Lucas Jr.,male
+681,1996,GBR,Cambridge,economics,James A.,Mirrlees,male
+682,1996,USA,"New York, NY",economics,William,Vickrey,male
+683,1997,USA,"Cambridge, MA",economics,Robert C.,Merton,male
+684,1997,USA,"Greenwich, CT",economics,Myron S.,Scholes,male
+685,1998,GBR,Cambridge,economics,Amartya,Sen,male
+686,1999,USA,"New York, NY",economics,Robert A.,Mundell,male
+687,1958,,Moscow,physics,Il´ja Mikhailovich,Frank,male
+688,2000,SWE,Gothenburg,medicine,Arvid,Carlsson,male
+689,2000,USA,"New York, NY",medicine,Paul,Greengard,male
+690,2000,USA,"New York, NY",medicine,Eric R.,Kandel,male
+691,2000,,,peace,Kim,Dae-jung,male
+692,2000,,St. Petersburg,physics,Zhores I.,Alferov,male
+693,2000,USA,"Santa Barbara, CA",physics,Herbert,Kroemer,male
+694,2000,USA,"Dallas, TX",physics,Jack S.,Kilby,male
+695,2000,USA,"Santa Barbara, CA",chemistry,Alan J.,Heeger,male
+696,2000,USA,"Philadelphia, PA",chemistry,Alan G.,MacDiarmid,male
+697,2000,JPN,Tokyo,chemistry,Hideki,Shirakawa,male
+698,2000,USA,"Chicago, IL",economics,James J.,Heckman,male
+699,2000,USA,"Berkeley, CA",economics,Daniel L.,McFadden,male
+700,2000,,,literature,Gao,Xingjian,male
+701,2001,USA,"Seattle, WA",medicine,Leland H.,Hartwell,male
+702,2001,GBR,London,medicine,Tim,Hunt,male
+703,2001,GBR,London,medicine,Sir Paul M.,Nurse,male
+704,2001,USA,"Boulder, CO",physics,Eric A.,Cornell,male
+705,2001,USA,"Cambridge, MA",physics,Wolfgang,Ketterle,male
+706,2001,USA,"Boulder, CO",physics,Carl E.,Wieman,male
+707,2001,USA,"St. Louis, MO",chemistry,William S.,Knowles,male
+708,2001,JPN,Nagoya,chemistry,Ryoji,Noyori,male
+709,2001,USA,"La Jolla, CA",chemistry,K. Barry,Sharpless,male
+710,2001,USA,"Berkeley, CA",economics,George A.,Akerlof,male
+711,2001,USA,"Stanford, CA",economics,A. Michael,Spence,male
+712,2001,USA,"New York, NY",economics,Joseph E.,Stiglitz,male
+713,2001,,,literature,Sir Vidiadhar Surajprasad,Naipaul,male
+714,2001,,,peace,Kofi,Annan,male
+715,2002,USA,"Berkeley, CA",medicine,Sydney,Brenner,male
+716,2002,USA,"Cambridge, MA",medicine,H. Robert,Horvitz,male
+717,2002,GBR,Cambridge,medicine,John E.,Sulston,male
+718,2002,USA,"Philadelphia, PA",physics,Raymond,Davis Jr.,male
+719,2002,JPN,Tokyo,physics,Masatoshi,Koshiba,male
+720,2002,USA,"Washington, DC",physics,Riccardo,Giacconi,male
+721,2002,USA,"Richmond, VA",chemistry,John B.,Fenn,male
+722,2002,JPN,Kyoto,chemistry,Koichi,Tanaka,male
+723,2002,CHE,Zurich,chemistry,Kurt,Wüthrich,male
+724,2002,USA,"Princeton, NJ",economics,Daniel,Kahneman,male
+725,2002,USA,"Fairfax, VA",economics,Vernon L.,Smith,male
+726,2002,,,literature,Imre,Kertész,male
+727,2002,,,peace,Jimmy,Carter,male
+728,2003,,,literature,John M.,Coetzee,male
+729,2003,USA,"Urbana, IL",medicine,Paul C.,Lauterbur,male
+730,2003,GBR,Nottingham,medicine,Sir Peter,Mansfield,male
+731,2003,USA,"Argonne, IL",physics,Alexei A.,Abrikosov,male
+732,2003,,Moscow,physics,Vitaly L.,Ginzburg,male
+733,2003,USA,"Urbana, IL",physics,Anthony J.,Leggett,male
+734,2003,USA,"Baltimore, MD",chemistry,Peter,Agre,male
+735,2003,USA,"New York, NY",chemistry,Roderick,MacKinnon,male
+736,2003,USA,"New York, NY",economics,Robert F.,Engle III,male
+737,2003,USA,"San Diego, CA",economics,Clive W.J.,Granger,male
+738,2003,,,peace,Shirin,Ebadi,female
+739,2004,USA,"New York, NY",medicine,Richard,Axel,male
+740,2004,USA,"Seattle, WA",medicine,Linda B.,Buck,female
+741,2004,USA,"Santa Barbara, CA",physics,David J.,Gross,male
+742,2004,USA,"Pasadena, CA",physics,H. David,Politzer,male
+743,2004,USA,"Cambridge, MA",physics,Frank,Wilczek,male
+744,2004,ISR,Haifa,chemistry,Aaron,Ciechanover,male
+745,2004,ISR,Haifa,chemistry,Avram,Hershko,male
+746,2004,USA,"Irvine, CA",chemistry,Irwin,Rose,male
+747,2004,,,literature,Elfriede,Jelinek,female
+748,2004,,,peace,Wangari Muta,Maathai,female
+749,2004,USA,"Pittsburgh, PA",economics,Finn E.,Kydland,male
+750,2004,USA,"Tempe, AZ",economics,Edward C.,Prescott,male
+751,2005,AUS,Nedlands,medicine,Barry J.,Marshall,male
+752,2005,AUS,Perth,medicine,J. Robin,Warren,male
+753,2005,USA,"Cambridge, MA",physics,Roy J.,Glauber,male
+754,2005,USA,"Boulder, CO",physics,John L.,Hall,male
+755,2005,DEU,Garching,physics,Theodor W.,Hänsch,male
+756,2005,FRA,Rueil-Malmaison,chemistry,Yves,Chauvin,male
+757,2005,USA,"Pasadena, CA",chemistry,Robert H.,Grubbs,male
+758,2005,USA,"Cambridge, MA",chemistry,Richard R.,Schrock,male
+759,2005,,,peace,Mohamed,ElBaradei,male
+760,2005,ISR,Jerusalem,economics,Robert J.,Aumann,male
+761,2005,USA,"College Park, MD",economics,Thomas C.,Schelling,male
+762,2005,,,literature,Harold,Pinter,male
+763,2006,USA,"Stanford, CA",medicine,Andrew Z.,Fire,male
+764,2006,USA,"Worcester, MA",medicine,Craig C.,Mello,male
+765,2006,USA,"Greenbelt, MD",physics,John C.,Mather,male
+766,2006,USA,"Berkeley, CA",physics,George F.,Smoot,male
+767,2006,USA,"Stanford, CA",chemistry,Roger D.,Kornberg,male
+768,2006,USA,"New York, NY",economics,Edmund S.,Phelps,male
+769,2006,,,literature,Orhan,Pamuk,male
+770,2006,,,peace,Muhammad,Yunus,male
+771,2007,USA,"Salt Lake City, UT",medicine,Mario R.,Capecchi,male
+772,2007,GBR,Cardiff,medicine,Sir Martin J.,Evans,male
+773,2007,USA,"Chapel Hill, NC",medicine,Oliver,Smithies,male
+774,2007,FRA,Orsay,physics,Albert,Fert,male
+775,2007,DEU,J&uuml;lich,physics,Peter,Grünberg,male
+776,2007,DEU,Berlin,chemistry,Gerhard,Ertl,male
+777,2007,,,literature,Doris,Lessing,female
+778,2007,,,peace,Albert Arnold (Al),Gore Jr.,male
+779,2007,USA,"Minneapolis, MN",economics,Leonid,Hurwicz,male
+780,2007,USA,"Princeton, NJ",economics,Eric S.,Maskin,male
+781,2007,USA,"Chicago, IL",economics,Roger B.,Myerson,male
+782,2008,DEU,Heidelberg,medicine,Harald,zur Hausen,male
+783,2008,FRA,Paris,medicine,Françoise,Barré-Sinoussi,female
+784,2008,FRA,Paris,medicine,Luc,Montagnier,male
+785,2008,USA,"Chicago, IL",physics,Yoichiro,Nambu,male
+786,2008,JPN,Tsukuba,physics,Makoto,Kobayashi,male
+787,2008,JPN,Kyoto,physics,Toshihide,Maskawa,male
+788,2008,USA,"Woods Hole, MA",chemistry,Osamu,Shimomura,male
+789,2008,USA,"New York, NY",chemistry,Martin,Chalfie,male
+790,2008,USA,"San Diego, CA",chemistry,Roger Y.,Tsien,male
+791,2008,,,literature,Jean-Marie Gustave,Le Clézio,male
+792,2008,,,peace,Martti,Ahtisaari,male
+793,2008,USA,"Princeton, NJ",economics,Paul,Krugman,male
+794,2009,USA,"San Francisco, CA",medicine,Elizabeth H.,Blackburn,female
+795,2009,USA,"Baltimore, MD",medicine,Carol W.,Greider,female
+796,2009,USA,"Boston, MA",medicine,Jack W.,Szostak,male
+797,2009,GBR,Harlow,physics,Charles Kuen,Kao,male
+798,2009,USA,"Murray Hill, NJ",physics,Willard S.,Boyle,male
+799,2009,USA,"Murray Hill, NJ",physics,George E.,Smith,male
+800,2009,USA,"New Haven, CT",chemistry,Thomas A.,Steitz,male
+801,2009,ISR,Rehovot,chemistry,Ada E.,Yonath,female
+802,2009,,,literature,Herta,Müller,female
+803,2009,,,peace,Barack H.,Obama,male
+804,2009,USA,"Bloomington, IN",economics,Elinor,Ostrom,female
+805,2009,USA,"Berkeley, CA",economics,Oliver E.,Williamson,male
+806,2010,GBR,Cambridge,medicine,Robert G.,Edwards,male
+807,2010,GBR,Manchester,physics,Andre,Geim,male
+808,2010,GBR,Manchester,physics,Konstantin,Novoselov,male
+809,2010,USA,,chemistry,Richard F.,Heck,male
+810,2010,USA,"West Lafayette, IN",chemistry,Ei-ichi,Negishi,male
+811,2010,JPN,Sapporo,chemistry,Akira,Suzuki,male
+812,2010,,,literature,Mario,Vargas Llosa,male
+813,2010,,,peace,Liu,Xiaobo,male
+814,2010,USA,"Cambridge, MA",economics,Peter A.,Diamond,male
+815,2010,USA,"Evanston, IL",economics,Dale T.,Mortensen,male
+816,2010,GBR,London,economics,Christopher A.,Pissarides,male
+817,2011,USA,"Dallas, TX",medicine,Bruce A.,Beutler,male
+818,2011,FRA,Strasbourg,medicine,Jules A.,Hoffmann,male
+819,2011,USA,"New York, NY",medicine,Ralph M.,Steinman,male
+820,2011,AUS,Weston Creek,physics,Brian P.,Schmidt,male
+821,2011,USA,"Baltimore, MD",physics,Adam G.,Riess,male
+822,2011,ISR,Haifa,chemistry,Dan,Shechtman,male
+823,2011,,,literature,Tomas,Tranströmer,male
+824,2011,,,peace,Ellen,Johnson Sirleaf,female
+825,2011,,,peace,Leymah,Gbowee,female
+826,2011,,,peace,Tawakkol,Karman,female
+827,2011,USA,"New York, NY",economics,Thomas J.,Sargent,male
+828,2011,USA,"Princeton, NJ",economics,Christopher A.,Sims,male
+829,2012,GBR,Cambridge,medicine,Sir John B.,Gurdon,male
+830,2012,JPN,Kyoto,medicine,Shinya,Yamanaka,male
+831,2012,FRA,Paris,physics,Serge,Haroche,male
+832,2012,USA,"Boulder, CO",physics,David J.,Wineland,male
+833,2012,,,chemistry,Robert J.,Lefkowitz,male
+834,2012,USA,"Stanford, CA",chemistry,Brian K.,Kobilka,male
+835,2012,,,literature,Mo,Yan,male
+836,2012,USA,"Cambridge, MA",economics,Alvin E.,Roth,male
+837,2012,USA,"Los Angeles, CA",economics,Lloyd S.,Shapley,male
+838,2013,USA,"New Haven, CT",medicine,James E.,Rothman,male
+839,2013,USA,"Berkeley, CA",medicine,Randy W.,Schekman,male
+840,2013,USA,"Stanford, CA",medicine,Thomas C.,Südhof,male
+841,2013,BEL,Brussels,physics,François,Englert,male
+842,2013,GBR,Edinburgh,physics,Peter W.,Higgs,male
+843,2013,FRA,Strasbourg,chemistry,Martin,Karplus,male
+844,2013,USA,"Stanford, CA",chemistry,Michael,Levitt,male
+845,2013,USA,"Los Angeles, CA",chemistry,Arieh,Warshel,male
+846,2013,,,literature,Alice,Munro,female
+847,2013,USA,"Chicago, IL",economics,Eugene F.,Fama,male
+848,2013,USA,"Chicago, IL",economics,Lars Peter,Hansen,male
+849,2013,USA,"New Haven, CT",economics,Robert J.,Shiller,male
+850,2014,GBR,London,medicine,John,O'Keefe,male
+851,2014,NOR,Trondheim,medicine,May-Britt,Moser,female
+852,2014,NOR,Trondheim,medicine,Edvard I.,Moser,male
+853,2014,JPN,Nagoya,physics,Isamu,Akasaki,male
+854,2014,JPN,Nagoya,physics,Hiroshi,Amano,male
+855,2014,USA,"Santa Barbara, CA",physics,Shuji,Nakamura,male
+856,2014,USA,"Ashburn, VA",chemistry,Eric,Betzig,male
+857,2014,DEU,Göttingen,chemistry,Stefan W.,Hell,male
+858,2014,USA,"Stanford, CA",chemistry,William E.,Moerner,male
+859,2014,,,literature,Patrick,Modiano,male
+860,2014,,,peace,Kailash,Satyarthi,male
+861,2014,,,peace,Malala,Yousafzai,female
+862,2014,FRA,Toulouse,economics,Jean,Tirole,male
+863,2015,USA,"Madison, NJ",medicine,William C.,Campbell,male
+864,2015,JPN,Tokyo,medicine,Satoshi,Ōmura,male
+865,2015,CHN,Beijing,medicine,Youyou,Tu,female
+866,2015,JPN,Kashiwa,physics,Takaaki,Kajita,male
+867,2015,CAN,Kingston,physics,Arthur B.,McDonald,male
+868,2015,GBR,Hertfordshire,chemistry,Tomas,Lindahl,male
+869,2015,USA,"Durham, NC",chemistry,Paul,Modrich,male
+870,2015,USA,"Chapel Hill, NC",chemistry,Aziz,Sancar,male
+871,2015,,,literature,Svetlana,Alexievich,female
+872,2015,USA,"Princeton, NJ",economics,Angus,Deaton,male
+873,2016,JPN,Tokyo,medicine,Yoshinori,Ohsumi,male
+874,2016,USA,"Seattle, WA",physics,David J.,Thouless,male
+875,2016,USA,"Princeton, NJ",physics,F. Duncan M.,Haldane,male
+876,2016,USA,"Providence, RI",physics,J. Michael,Kosterlitz,male
+877,2016,FRA,Strasbourg,chemistry,Jean-Pierre,Sauvage,male
+878,2016,USA,"Evanston, IL",chemistry,Sir J. Fraser,Stoddart,male
+879,2016,,Groningen,chemistry,Bernard L.,Feringa,male
+880,2016,,,peace,Juan Manuel,Santos,male
+881,2016,USA,"Cambridge, MA",economics,Oliver,Hart,male
+882,2016,USA,"Cambridge, MA",economics,Bengt,Holmström,male
+883,2016,,,literature,Bob,Dylan,male
+884,2017,,,physics,Rainer,Weiss,male
+885,2017,,,physics,Barry C.,Barish,male
+886,2017,,,physics,Kip S.,Thorne,male
+887,2017,CHE,Lausanne,chemistry,Jacques,Dubochet,male
+888,2017,USA,"New York, NY",chemistry,Joachim,Frank,male
+889,2017,GBR,Cambridge,chemistry,Richard,Henderson,male
+890,2017,,,literature,Kazuo,Ishiguro,male
+891,2017,USA,"Chicago, IL",economics,Richard H.,Thaler,male
