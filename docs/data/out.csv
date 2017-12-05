@@ -4,7 +4,7 @@ id,year,country,city,category,firstname,surname,gender
 3,1902,,Amsterdam,physics,Pieter,Zeeman,male
 4,1903,FRA,Paris,physics,Antoine Henri,Becquerel,male
 5,1903,FRA,Paris,physics,Pierre,Curie,male
-6,1903,,,physics,Marie,"Curie, née Sklodowska",female
+6,1903,POL,,physics,Marie,"Curie, née Sklodowska",female
 7,1911,FRA,Paris,chemistry,Marie,"Curie, née Sklodowska",female
 8,1904,GBR,London,physics,Lord Rayleigh,(John William Strutt),male
 9,1905,DEU,Kiel,physics,Philipp Eduard Anton,von Lenard,male
@@ -459,188 +459,188 @@ id,year,country,city,category,firstname,surname,gender
 458,1998,USA,"Los Angeles, CA",medicine,Louis J.,Ignarro,male
 459,1998,USA,"Houston, TX",medicine,Ferid,Murad,male
 460,1999,USA,"New York, NY",medicine,Günter,Blobel,male
-461,1901,,,peace,Jean Henry,Dunant,male
-462,1901,,,peace,Frédéric,Passy,male
-463,1902,,,peace,Élie,Ducommun,male
-464,1902,,,peace,Charles Albert,Gobat,male
-465,1903,,,peace,William Randal,Cremer,male
-466,1905,,,peace,Baroness Bertha Sophie Felicita,"von Suttner, née Countess Kinsky von Chinic und Tettau",female
-467,1906,,,peace,Theodore,Roosevelt,male
-468,1907,,,peace,Ernesto Teodoro,Moneta,male
+461,1901,CHE,,peace,Jean Henry,Dunant,male
+462,1901,FRA,,peace,Frédéric,Passy,male
+463,1902,CHE,,peace,Élie,Ducommun,male
+464,1902,CHE,,peace,Charles Albert,Gobat,male
+465,1903,GBR,,peace,William Randal,Cremer,male
+466,1905,CZE,,peace,Baroness Bertha Sophie Felicita,"von Suttner, née Countess Kinsky von Chinic und Tettau",female
+467,1906,USA,,peace,Theodore,Roosevelt,male
+468,1907,ITA,,peace,Ernesto Teodoro,Moneta,male
 469,1907,FRA,Paris,peace,Louis,Renault,male
-470,1908,,,peace,Klas Pontus,Arnoldson,male
-471,1908,,,peace,Fredrik,Bajer,male
-472,1909,,,peace,Auguste Marie François,Beernaert,male
-473,1909,,,peace,Paul Henri Benjamin Balluet,"d'Estournelles de Constant, Baron de Constant de Rebecque",male
-474,1911,,,peace,Tobias Michael Carel,Asser,male
-475,1911,,,peace,Alfred Hermann,Fried,male
-476,1912,,,peace,Elihu,Root,male
-477,1913,,,peace,Henri,La Fontaine,male
-478,1919,,,peace,Thomas Woodrow,Wilson,male
-479,1920,,,peace,Léon Victor Auguste,Bourgeois,male
-480,1921,,,peace,Karl Hjalmar,Branting,male
-481,1921,,,peace,Christian Lous,Lange,male
-482,1922,,,peace,Fridtjof,Nansen,male
-483,1925,,,peace,Sir Austen,Chamberlain,male
-484,1925,,,peace,Charles Gates,Dawes,male
-485,1926,,,peace,Aristide,Briand,male
-486,1926,,,peace,Gustav,Stresemann,male
-487,1927,,,peace,Ferdinand,Buisson,male
-488,1927,,,peace,Ludwig,Quidde,male
-489,1929,,,peace,Frank Billings,Kellogg,male
-490,1930,,,peace,Lars Olof Jonathan (Nathan),Söderblom,male
-491,1931,,,peace,Jane,Addams,female
+470,1908,SWE,,peace,Klas Pontus,Arnoldson,male
+471,1908,DNK,,peace,Fredrik,Bajer,male
+472,1909,BEL,,peace,Auguste Marie François,Beernaert,male
+473,1909,FRA,,peace,Paul Henri Benjamin Balluet,"d'Estournelles de Constant, Baron de Constant de Rebecque",male
+474,1911,NLD,,peace,Tobias Michael Carel,Asser,male
+475,1911,AUT,,peace,Alfred Hermann,Fried,male
+476,1912,USA,,peace,Elihu,Root,male
+477,1913,BEL,,peace,Henri,La Fontaine,male
+478,1919,USA,,peace,Thomas Woodrow,Wilson,male
+479,1920,FRA,,peace,Léon Victor Auguste,Bourgeois,male
+480,1921,SWE,,peace,Karl Hjalmar,Branting,male
+481,1921,NOR,,peace,Christian Lous,Lange,male
+482,1922,NOR,,peace,Fridtjof,Nansen,male
+483,1925,GBR,,peace,Sir Austen,Chamberlain,male
+484,1925,USA,,peace,Charles Gates,Dawes,male
+485,1926,FRA,,peace,Aristide,Briand,male
+486,1926,DEU,,peace,Gustav,Stresemann,male
+487,1927,FRA,,peace,Ferdinand,Buisson,male
+488,1927,DEU,,peace,Ludwig,Quidde,male
+489,1929,USA,,peace,Frank Billings,Kellogg,male
+490,1930,SWE,,peace,Lars Olof Jonathan (Nathan),Söderblom,male
+491,1931,USA,,peace,Jane,Addams,female
 492,1931,USA,"New York, NY",peace,Nicholas Murray,Butler,male
-493,1933,,,peace,Sir Norman,Angell (Ralph Lane),male
-494,1934,,,peace,Arthur,Henderson,male
-495,1935,,,peace,Carl,von Ossietzky,male
-496,1936,,,peace,Carlos,Saavedra Lamas,male
-497,1937,,,peace,"Cecil of Chelwood, Viscount",(Lord Edgar Algernon Robert Gascoyne Cecil),male
-498,1945,,,peace,Cordell,Hull,male
-499,1946,,,peace,Emily Greene,Balch,female
-500,1946,,,peace,John Raleigh,Mott,male
-501,1949,,,peace,Lord (John),Boyd Orr of Brechin,male
+493,1933,GBR,,peace,Sir Norman,Angell (Ralph Lane),male
+494,1934,GBR,,peace,Arthur,Henderson,male
+495,1935,DEU,,peace,Carl,von Ossietzky,male
+496,1936,ARG,,peace,Carlos,Saavedra Lamas,male
+497,1937,GBR,,peace,"Cecil of Chelwood, Viscount",(Lord Edgar Algernon Robert Gascoyne Cecil),male
+498,1945,USA,,peace,Cordell,Hull,male
+499,1946,USA,,peace,Emily Greene,Balch,female
+500,1946,USA,,peace,John Raleigh,Mott,male
+501,1949,GBR,,peace,Lord (John),Boyd Orr of Brechin,male
 502,1950,USA,"Cambridge, MA",peace,Ralph,Bunche,male
-503,1951,,,peace,Léon,Jouhaux,male
-504,1952,,,peace,Albert,Schweitzer,male
-505,1953,,,peace,George Catlett,Marshall,male
-506,1957,,,peace,Lester Bowles,Pearson,male
-507,1958,,,peace,Georges,Pire,male
-508,1959,,,peace,Philip J.,Noel-Baker,male
-509,1960,,,peace,Albert John,Lutuli,male
-510,1961,,,peace,Dag Hjalmar Agne Carl,Hammarskjöld,male
-511,1964,,,peace,Martin Luther,King Jr.,male
-512,1968,,,peace,René,Cassin,male
-513,1970,,,peace,Norman E.,Borlaug,male
-514,1971,,,peace,Willy,Brandt,male
-515,1973,,,peace,Henry A.,Kissinger,male
-516,1973,,,peace,Le Duc Tho,,male
-517,1974,,,peace,Seán,MacBride,male
-518,1974,,,peace,Eisaku,Sato,male
-519,1975,,,peace,Andrei Dmitrievich,Sakharov,male
-520,1976,,,peace,Betty,Williams,female
-521,1976,,,peace,Mairead,Corrigan,female
-522,1978,,,peace,Mohamed Anwar,al-Sadat,male
-523,1978,,,peace,Menachem,Begin,male
-524,1979,,,peace,Mother Teresa,,female
-525,1980,,,peace,Adolfo,Pérez Esquivel,male
-526,1982,,,peace,Alva,Myrdal,female
-527,1982,,,peace,Alfonso,García Robles,male
-528,1983,,,peace,Lech,Walesa,male
-529,1984,,,peace,Desmond Mpilo,Tutu,male
-530,1986,,,peace,Elie,Wiesel,male
-531,1987,,,peace,Oscar,Arias Sánchez,male
-532,1989,,,peace,The 14th Dalai Lama (Tenzin Gyatso),,male
-533,1990,,,peace,Mikhail Sergeyevich,Gorbachev,male
-534,1991,,,peace,Aung San Suu Kyi,,female
-535,1992,,,peace,Rigoberta,Menchú Tum,female
-536,1993,,,peace,Nelson,Mandela,male
-537,1993,,,peace,Frederik Willem,de Klerk,male
-538,1994,,,peace,Yasser,Arafat,male
-539,1994,,,peace,Shimon,Peres,male
-540,1994,,,peace,Yitzhak,Rabin,male
-541,1995,,,peace,Joseph,Rotblat,male
-542,1996,,,peace,Carlos Filipe Ximenes,Belo,male
-543,1996,,,peace,José,Ramos-Horta,male
-544,1997,,,peace,Jody,Williams,female
-545,1998,,,peace,John,Hume,male
-546,1998,,,peace,David,Trimble,male
-547,1901,,,literature,Sully,Prudhomme,male
-548,1902,,,literature,Christian Matthias Theodor,Mommsen,male
-549,1903,,,literature,Bjørnstjerne Martinus,Bjørnson,male
-550,1904,,,literature,Frédéric,Mistral,male
-551,1904,,,literature,José,Echegaray y Eizaguirre,male
-552,1905,,,literature,Henryk,Sienkiewicz,male
-553,1906,,,literature,Giosuè,Carducci,male
-554,1907,,,literature,Rudyard,Kipling,male
-555,1908,,,literature,Rudolf Christoph,Eucken,male
-556,1909,,,literature,Selma Ottilia Lovisa,Lagerlöf,female
-557,1910,,,literature,Paul Johann Ludwig,Heyse,male
-558,1911,,,literature,Count Maurice (Mooris) Polidore Marie Bernhard,Maeterlinck,male
-559,1912,,,literature,Gerhart Johann Robert,Hauptmann,male
-560,1913,,,literature,Rabindranath,Tagore,male
-561,1915,,,literature,Romain,Rolland,male
-562,1916,,,literature,Carl Gustaf Verner,von Heidenstam,male
-563,1917,,,literature,Karl Adolph,Gjellerup,male
-564,1917,,,literature,Henrik,Pontoppidan,male
-565,1919,,,literature,Carl Friedrich Georg,Spitteler,male
-566,1920,,,literature,Knut Pedersen,Hamsun,male
-567,1921,,,literature,Anatole,France,male
-568,1922,,,literature,Jacinto,Benavente,male
-569,1923,,,literature,William Butler,Yeats,male
-570,1924,,,literature,Wladyslaw Stanislaw,Reymont,male
-571,1925,,,literature,George Bernard,Shaw,male
-572,1926,,,literature,Grazia,Deledda,female
-573,1927,,,literature,Henri,Bergson,male
-574,1928,,,literature,Sigrid,Undset,female
-575,1929,,,literature,Thomas,Mann,male
-576,1930,,,literature,Sinclair,Lewis,male
-577,1931,,,literature,Erik Axel,Karlfeldt,male
-578,1932,,,literature,John,Galsworthy,male
-579,1933,,,literature,Ivan Alekseyevich,Bunin,male
-580,1934,,,literature,Luigi,Pirandello,male
-581,1936,,,literature,Eugene Gladstone,O'Neill,male
-582,1937,,,literature,Roger,Martin du Gard,male
-583,1938,,,literature,Pearl,Buck,female
-584,1939,,,literature,Frans Eemil,Sillanpää,male
-585,1944,,,literature,Johannes Vilhelm,Jensen,male
-586,1945,,,literature,Gabriela,Mistral,female
-587,1946,,,literature,Hermann,Hesse,male
-588,1947,,,literature,André Paul Guillaume,Gide,male
-589,1948,,,literature,Thomas Stearns,Eliot,male
-590,1949,,,literature,William,Faulkner,male
-591,1950,,,literature,Earl (Bertrand Arthur William),Russell,male
-592,1951,,,literature,Pär Fabian,Lagerkvist,male
-593,1952,,,literature,François,Mauriac,male
-594,1953,,,literature,Sir Winston Leonard Spencer,Churchill,male
-595,1954,,,literature,Ernest Miller,Hemingway,male
-596,1955,,,literature,Halldór Kiljan,Laxness,male
-597,1956,,,literature,Juan Ramón,Jiménez,male
-598,1957,,,literature,Albert,Camus,male
-599,1958,,,literature,Boris Leonidovich,Pasternak,male
-600,1959,,,literature,Salvatore,Quasimodo,male
-601,1960,,,literature,Saint-John,Perse,male
-602,1961,,,literature,Ivo,Andric,male
-603,1962,,,literature,John,Steinbeck,male
-604,1963,,,literature,Giorgos,Seferis,male
-605,1964,,,literature,Jean-Paul,Sartre,male
-606,1965,,,literature,Mikhail Aleksandrovich,Sholokhov,male
-607,1966,,,literature,Shmuel Yosef,Agnon,male
-608,1966,,,literature,Nelly,Sachs,female
-609,1967,,,literature,Miguel Angel,Asturias,male
-610,1968,,,literature,Yasunari,Kawabata,male
-611,1969,,,literature,Samuel,Beckett,male
-612,1970,,,literature,Aleksandr Isayevich,Solzhenitsyn,male
-613,1971,,,literature,Pablo,Neruda,male
-614,1972,,,literature,Heinrich,Böll,male
-615,1973,,,literature,Patrick,White,male
-616,1974,,,literature,Eyvind,Johnson,male
-617,1974,,,literature,Harry,Martinson,male
-618,1975,,,literature,Eugenio,Montale,male
-619,1976,,,literature,Saul,Bellow,male
-620,1977,,,literature,Vicente,Aleixandre,male
-621,1978,,,literature,Isaac Bashevis,Singer,male
-622,1979,,,literature,Odysseus,Elytis,male
-623,1980,,,literature,Czeslaw,Milosz,male
-624,1981,,,literature,Elias,Canetti,male
-625,1982,,,literature,Gabriel,García Márquez,male
-626,1983,,,literature,William,Golding,male
-627,1984,,,literature,Jaroslav,Seifert,male
-628,1985,,,literature,Claude,Simon,male
-629,1986,,,literature,Wole,Soyinka,male
-630,1987,,,literature,Joseph,Brodsky,male
-631,1988,,,literature,Naguib,Mahfouz,male
-632,1989,,,literature,Camilo José,Cela,male
-633,1990,,,literature,Octavio,Paz,male
-634,1991,,,literature,Nadine,Gordimer,female
-635,1992,,,literature,Derek,Walcott,male
-636,1993,,,literature,Toni,Morrison,female
-637,1994,,,literature,Kenzaburo,Oe,male
-638,1995,,,literature,Seamus,Heaney,male
-639,1996,,,literature,Wislawa,Szymborska,female
-640,1997,,,literature,Dario,Fo,male
-641,1998,,,literature,José,Saramago,male
-642,1999,,,literature,Günter,Grass,male
+503,1951,FRA,,peace,Léon,Jouhaux,male
+504,1952,FRA,,peace,Albert,Schweitzer,male
+505,1953,USA,,peace,George Catlett,Marshall,male
+506,1957,CAN,,peace,Lester Bowles,Pearson,male
+507,1958,BEL,,peace,Georges,Pire,male
+508,1959,GBR,,peace,Philip J.,Noel-Baker,male
+509,1960,ZWE,,peace,Albert John,Lutuli,male
+510,1961,SWE,,peace,Dag Hjalmar Agne Carl,Hammarskjöld,male
+511,1964,USA,,peace,Martin Luther,King Jr.,male
+512,1968,FRA,,peace,René,Cassin,male
+513,1970,USA,,peace,Norman E.,Borlaug,male
+514,1971,DEU,,peace,Willy,Brandt,male
+515,1973,DEU,,peace,Henry A.,Kissinger,male
+516,1973,VNM,,peace,Le Duc Tho,,male
+517,1974,FRA,,peace,Seán,MacBride,male
+518,1974,JPN,,peace,Eisaku,Sato,male
+519,1975,RUS,,peace,Andrei Dmitrievich,Sakharov,male
+520,1976,GBR,,peace,Betty,Williams,female
+521,1976,GBR,,peace,Mairead,Corrigan,female
+522,1978,EGY,,peace,Mohamed Anwar,al-Sadat,male
+523,1978,BLR,,peace,Menachem,Begin,male
+524,1979,MKD,,peace,Mother Teresa,,female
+525,1980,ARG,,peace,Adolfo,Pérez Esquivel,male
+526,1982,SWE,,peace,Alva,Myrdal,female
+527,1982,MEX,,peace,Alfonso,García Robles,male
+528,1983,POL,,peace,Lech,Walesa,male
+529,1984,ZAF,,peace,Desmond Mpilo,Tutu,male
+530,1986,ROU,,peace,Elie,Wiesel,male
+531,1987,CRI,,peace,Oscar,Arias Sánchez,male
+532,1989,CHN,,peace,The 14th Dalai Lama (Tenzin Gyatso),,male
+533,1990,RUS,,peace,Mikhail Sergeyevich,Gorbachev,male
+534,1991,MMR,,peace,Aung San Suu Kyi,,female
+535,1992,GTM,,peace,Rigoberta,Menchú Tum,female
+536,1993,ZAF,,peace,Nelson,Mandela,male
+537,1993,ZAF,,peace,Frederik Willem,de Klerk,male
+538,1994,EGY,,peace,Yasser,Arafat,male
+539,1994,BLR,,peace,Shimon,Peres,male
+540,1994,ISR,,peace,Yitzhak,Rabin,male
+541,1995,POL,,peace,Joseph,Rotblat,male
+542,1996,TLS,,peace,Carlos Filipe Ximenes,Belo,male
+543,1996,TLS,,peace,José,Ramos-Horta,male
+544,1997,USA,,peace,Jody,Williams,female
+545,1998,GBR,,peace,John,Hume,male
+546,1998,GBR,,peace,David,Trimble,male
+547,1901,FRA,,literature,Sully,Prudhomme,male
+548,1902,DEU,,literature,Christian Matthias Theodor,Mommsen,male
+549,1903,NOR,,literature,Bjørnstjerne Martinus,Bjørnson,male
+550,1904,FRA,,literature,Frédéric,Mistral,male
+551,1904,ESP,,literature,José,Echegaray y Eizaguirre,male
+552,1905,POL,,literature,Henryk,Sienkiewicz,male
+553,1906,ITA,,literature,Giosuè,Carducci,male
+554,1907,IND,,literature,Rudyard,Kipling,male
+555,1908,DEU,,literature,Rudolf Christoph,Eucken,male
+556,1909,SWE,,literature,Selma Ottilia Lovisa,Lagerlöf,female
+557,1910,DEU,,literature,Paul Johann Ludwig,Heyse,male
+558,1911,BEL,,literature,Count Maurice (Mooris) Polidore Marie Bernhard,Maeterlinck,male
+559,1912,DEU,,literature,Gerhart Johann Robert,Hauptmann,male
+560,1913,IND,,literature,Rabindranath,Tagore,male
+561,1915,FRA,,literature,Romain,Rolland,male
+562,1916,SWE,,literature,Carl Gustaf Verner,von Heidenstam,male
+563,1917,DNK,,literature,Karl Adolph,Gjellerup,male
+564,1917,DNK,,literature,Henrik,Pontoppidan,male
+565,1919,CHE,,literature,Carl Friedrich Georg,Spitteler,male
+566,1920,NOR,,literature,Knut Pedersen,Hamsun,male
+567,1921,FRA,,literature,Anatole,France,male
+568,1922,ESP,,literature,Jacinto,Benavente,male
+569,1923,IRL,,literature,William Butler,Yeats,male
+570,1924,POL,,literature,Wladyslaw Stanislaw,Reymont,male
+571,1925,IRL,,literature,George Bernard,Shaw,male
+572,1926,ITA,,literature,Grazia,Deledda,female
+573,1927,FRA,,literature,Henri,Bergson,male
+574,1928,DNK,,literature,Sigrid,Undset,female
+575,1929,DEU,,literature,Thomas,Mann,male
+576,1930,USA,,literature,Sinclair,Lewis,male
+577,1931,SWE,,literature,Erik Axel,Karlfeldt,male
+578,1932,GBR,,literature,John,Galsworthy,male
+579,1933,RUS,,literature,Ivan Alekseyevich,Bunin,male
+580,1934,ITA,,literature,Luigi,Pirandello,male
+581,1936,USA,,literature,Eugene Gladstone,O'Neill,male
+582,1937,FRA,,literature,Roger,Martin du Gard,male
+583,1938,USA,,literature,Pearl,Buck,female
+584,1939,FIN,,literature,Frans Eemil,Sillanpää,male
+585,1944,DNK,,literature,Johannes Vilhelm,Jensen,male
+586,1945,CHL,,literature,Gabriela,Mistral,female
+587,1946,DEU,,literature,Hermann,Hesse,male
+588,1947,FRA,,literature,André Paul Guillaume,Gide,male
+589,1948,USA,,literature,Thomas Stearns,Eliot,male
+590,1949,USA,,literature,William,Faulkner,male
+591,1950,GBR,,literature,Earl (Bertrand Arthur William),Russell,male
+592,1951,SWE,,literature,Pär Fabian,Lagerkvist,male
+593,1952,FRA,,literature,François,Mauriac,male
+594,1953,GBR,,literature,Sir Winston Leonard Spencer,Churchill,male
+595,1954,USA,,literature,Ernest Miller,Hemingway,male
+596,1955,ISL,,literature,Halldór Kiljan,Laxness,male
+597,1956,ESP,,literature,Juan Ramón,Jiménez,male
+598,1957,DZA,,literature,Albert,Camus,male
+599,1958,RUS,,literature,Boris Leonidovich,Pasternak,male
+600,1959,ITA,,literature,Salvatore,Quasimodo,male
+601,1960,GLP,,literature,Saint-John,Perse,male
+602,1961,BIH,,literature,Ivo,Andric,male
+603,1962,USA,,literature,John,Steinbeck,male
+604,1963,TUR,,literature,Giorgos,Seferis,male
+605,1964,FRA,,literature,Jean-Paul,Sartre,male
+606,1965,RUS,,literature,Mikhail Aleksandrovich,Sholokhov,male
+607,1966,UKR,,literature,Shmuel Yosef,Agnon,male
+608,1966,DEU,,literature,Nelly,Sachs,female
+609,1967,GTM,,literature,Miguel Angel,Asturias,male
+610,1968,JPN,,literature,Yasunari,Kawabata,male
+611,1969,IRL,,literature,Samuel,Beckett,male
+612,1970,RUS,,literature,Aleksandr Isayevich,Solzhenitsyn,male
+613,1971,CHL,,literature,Pablo,Neruda,male
+614,1972,DEU,,literature,Heinrich,Böll,male
+615,1973,GBR,,literature,Patrick,White,male
+616,1974,SWE,,literature,Eyvind,Johnson,male
+617,1974,SWE,,literature,Harry,Martinson,male
+618,1975,ITA,,literature,Eugenio,Montale,male
+619,1976,CAN,,literature,Saul,Bellow,male
+620,1977,ESP,,literature,Vicente,Aleixandre,male
+621,1978,POL,,literature,Isaac Bashevis,Singer,male
+622,1979,GRC,,literature,Odysseus,Elytis,male
+623,1980,LTU,,literature,Czeslaw,Milosz,male
+624,1981,BGR,,literature,Elias,Canetti,male
+625,1982,COL,,literature,Gabriel,García Márquez,male
+626,1983,GBR,,literature,William,Golding,male
+627,1984,CZE,,literature,Jaroslav,Seifert,male
+628,1985,MDG,,literature,Claude,Simon,male
+629,1986,NGA,,literature,Wole,Soyinka,male
+630,1987,RUS,,literature,Joseph,Brodsky,male
+631,1988,EGY,,literature,Naguib,Mahfouz,male
+632,1989,ESP,,literature,Camilo José,Cela,male
+633,1990,MEX,,literature,Octavio,Paz,male
+634,1991,ZAF,,literature,Nadine,Gordimer,female
+635,1992,LCA,,literature,Derek,Walcott,male
+636,1993,USA,,literature,Toni,Morrison,female
+637,1994,JPN,,literature,Kenzaburo,Oe,male
+638,1995,GBR,,literature,Seamus,Heaney,male
+639,1996,POL,,literature,Wislawa,Szymborska,female
+640,1997,ITA,,literature,Dario,Fo,male
+641,1998,PRT,,literature,José,Saramago,male
+642,1999,POL,,literature,Günter,Grass,male
 643,1969,NOR,Oslo,economics,Ragnar,Frisch,male
 644,1969,,Rotterdam,economics,Jan,Tinbergen,male
 645,1970,USA,"Cambridge, MA",economics,Paul A.,Samuelson,male
@@ -648,8 +648,8 @@ id,year,country,city,category,firstname,surname,gender
 647,1972,GBR,Oxford,economics,John R.,Hicks,male
 648,1972,USA,"Cambridge, MA",economics,Kenneth J.,Arrow,male
 649,1973,USA,"Cambridge, MA",economics,Wassily,Leontief,male
-650,1974,,,economics,Gunnar,Myrdal,male
-651,1974,,,economics,Friedrich August,von Hayek,male
+650,1974,SWE,,economics,Gunnar,Myrdal,male
+651,1974,AUT,,economics,Friedrich August,von Hayek,male
 652,1975,,Moscow,economics,Leonid Vitaliyevich,Kantorovich,male
 653,1975,USA,"New Haven, CT",economics,Tjalling C.,Koopmans,male
 654,1976,USA,"Chicago, IL",economics,Milton,Friedman,male
@@ -689,7 +689,7 @@ id,year,country,city,category,firstname,surname,gender
 688,2000,SWE,Gothenburg,medicine,Arvid,Carlsson,male
 689,2000,USA,"New York, NY",medicine,Paul,Greengard,male
 690,2000,USA,"New York, NY",medicine,Eric R.,Kandel,male
-691,2000,,,peace,Kim,Dae-jung,male
+691,2000,KOR,,peace,Kim,Dae-jung,male
 692,2000,,St. Petersburg,physics,Zhores I.,Alferov,male
 693,2000,USA,"Santa Barbara, CA",physics,Herbert,Kroemer,male
 694,2000,USA,"Dallas, TX",physics,Jack S.,Kilby,male
@@ -698,7 +698,7 @@ id,year,country,city,category,firstname,surname,gender
 697,2000,JPN,Tokyo,chemistry,Hideki,Shirakawa,male
 698,2000,USA,"Chicago, IL",economics,James J.,Heckman,male
 699,2000,USA,"Berkeley, CA",economics,Daniel L.,McFadden,male
-700,2000,,,literature,Gao,Xingjian,male
+700,2000,CHN,,literature,Gao,Xingjian,male
 701,2001,USA,"Seattle, WA",medicine,Leland H.,Hartwell,male
 702,2001,GBR,London,medicine,Tim,Hunt,male
 703,2001,GBR,London,medicine,Sir Paul M.,Nurse,male
@@ -711,8 +711,8 @@ id,year,country,city,category,firstname,surname,gender
 710,2001,USA,"Berkeley, CA",economics,George A.,Akerlof,male
 711,2001,USA,"Stanford, CA",economics,A. Michael,Spence,male
 712,2001,USA,"New York, NY",economics,Joseph E.,Stiglitz,male
-713,2001,,,literature,Sir Vidiadhar Surajprasad,Naipaul,male
-714,2001,,,peace,Kofi,Annan,male
+713,2001,TTO,,literature,Sir Vidiadhar Surajprasad,Naipaul,male
+714,2001,GHA,,peace,Kofi,Annan,male
 715,2002,USA,"Berkeley, CA",medicine,Sydney,Brenner,male
 716,2002,USA,"Cambridge, MA",medicine,H. Robert,Horvitz,male
 717,2002,GBR,Cambridge,medicine,John E.,Sulston,male
@@ -724,9 +724,9 @@ id,year,country,city,category,firstname,surname,gender
 723,2002,CHE,Zurich,chemistry,Kurt,Wüthrich,male
 724,2002,USA,"Princeton, NJ",economics,Daniel,Kahneman,male
 725,2002,USA,"Fairfax, VA",economics,Vernon L.,Smith,male
-726,2002,,,literature,Imre,Kertész,male
-727,2002,,,peace,Jimmy,Carter,male
-728,2003,,,literature,John M.,Coetzee,male
+726,2002,HUN,,literature,Imre,Kertész,male
+727,2002,USA,,peace,Jimmy,Carter,male
+728,2003,ZAF,,literature,John M.,Coetzee,male
 729,2003,USA,"Urbana, IL",medicine,Paul C.,Lauterbur,male
 730,2003,GBR,Nottingham,medicine,Sir Peter,Mansfield,male
 731,2003,USA,"Argonne, IL",physics,Alexei A.,Abrikosov,male
@@ -736,7 +736,7 @@ id,year,country,city,category,firstname,surname,gender
 735,2003,USA,"New York, NY",chemistry,Roderick,MacKinnon,male
 736,2003,USA,"New York, NY",economics,Robert F.,Engle III,male
 737,2003,USA,"San Diego, CA",economics,Clive W.J.,Granger,male
-738,2003,,,peace,Shirin,Ebadi,female
+738,2003,IRN,,peace,Shirin,Ebadi,female
 739,2004,USA,"New York, NY",medicine,Richard,Axel,male
 740,2004,USA,"Seattle, WA",medicine,Linda B.,Buck,female
 741,2004,USA,"Santa Barbara, CA",physics,David J.,Gross,male
@@ -745,8 +745,8 @@ id,year,country,city,category,firstname,surname,gender
 744,2004,ISR,Haifa,chemistry,Aaron,Ciechanover,male
 745,2004,ISR,Haifa,chemistry,Avram,Hershko,male
 746,2004,USA,"Irvine, CA",chemistry,Irwin,Rose,male
-747,2004,,,literature,Elfriede,Jelinek,female
-748,2004,,,peace,Wangari Muta,Maathai,female
+747,2004,AUT,,literature,Elfriede,Jelinek,female
+748,2004,KEN,,peace,Wangari Muta,Maathai,female
 749,2004,USA,"Pittsburgh, PA",economics,Finn E.,Kydland,male
 750,2004,USA,"Tempe, AZ",economics,Edward C.,Prescott,male
 751,2005,AUS,Nedlands,medicine,Barry J.,Marshall,male
@@ -757,26 +757,26 @@ id,year,country,city,category,firstname,surname,gender
 756,2005,FRA,Rueil-Malmaison,chemistry,Yves,Chauvin,male
 757,2005,USA,"Pasadena, CA",chemistry,Robert H.,Grubbs,male
 758,2005,USA,"Cambridge, MA",chemistry,Richard R.,Schrock,male
-759,2005,,,peace,Mohamed,ElBaradei,male
+759,2005,EGY,,peace,Mohamed,ElBaradei,male
 760,2005,ISR,Jerusalem,economics,Robert J.,Aumann,male
 761,2005,USA,"College Park, MD",economics,Thomas C.,Schelling,male
-762,2005,,,literature,Harold,Pinter,male
+762,2005,GBR,,literature,Harold,Pinter,male
 763,2006,USA,"Stanford, CA",medicine,Andrew Z.,Fire,male
 764,2006,USA,"Worcester, MA",medicine,Craig C.,Mello,male
 765,2006,USA,"Greenbelt, MD",physics,John C.,Mather,male
 766,2006,USA,"Berkeley, CA",physics,George F.,Smoot,male
 767,2006,USA,"Stanford, CA",chemistry,Roger D.,Kornberg,male
 768,2006,USA,"New York, NY",economics,Edmund S.,Phelps,male
-769,2006,,,literature,Orhan,Pamuk,male
-770,2006,,,peace,Muhammad,Yunus,male
+769,2006,TUR,,literature,Orhan,Pamuk,male
+770,2006,BGD,,peace,Muhammad,Yunus,male
 771,2007,USA,"Salt Lake City, UT",medicine,Mario R.,Capecchi,male
 772,2007,GBR,Cardiff,medicine,Sir Martin J.,Evans,male
 773,2007,USA,"Chapel Hill, NC",medicine,Oliver,Smithies,male
 774,2007,FRA,Orsay,physics,Albert,Fert,male
 775,2007,DEU,J&uuml;lich,physics,Peter,Grünberg,male
 776,2007,DEU,Berlin,chemistry,Gerhard,Ertl,male
-777,2007,,,literature,Doris,Lessing,female
-778,2007,,,peace,Albert Arnold (Al),Gore Jr.,male
+777,2007,IRN,,literature,Doris,Lessing,female
+778,2007,USA,,peace,Albert Arnold (Al),Gore Jr.,male
 779,2007,USA,"Minneapolis, MN",economics,Leonid,Hurwicz,male
 780,2007,USA,"Princeton, NJ",economics,Eric S.,Maskin,male
 781,2007,USA,"Chicago, IL",economics,Roger B.,Myerson,male
@@ -789,8 +789,8 @@ id,year,country,city,category,firstname,surname,gender
 788,2008,USA,"Woods Hole, MA",chemistry,Osamu,Shimomura,male
 789,2008,USA,"New York, NY",chemistry,Martin,Chalfie,male
 790,2008,USA,"San Diego, CA",chemistry,Roger Y.,Tsien,male
-791,2008,,,literature,Jean-Marie Gustave,Le Clézio,male
-792,2008,,,peace,Martti,Ahtisaari,male
+791,2008,FRA,,literature,Jean-Marie Gustave,Le Clézio,male
+792,2008,FIN,,peace,Martti,Ahtisaari,male
 793,2008,USA,"Princeton, NJ",economics,Paul,Krugman,male
 794,2009,USA,"San Francisco, CA",medicine,Elizabeth H.,Blackburn,female
 795,2009,USA,"Baltimore, MD",medicine,Carol W.,Greider,female
@@ -800,8 +800,8 @@ id,year,country,city,category,firstname,surname,gender
 799,2009,USA,"Murray Hill, NJ",physics,George E.,Smith,male
 800,2009,USA,"New Haven, CT",chemistry,Thomas A.,Steitz,male
 801,2009,ISR,Rehovot,chemistry,Ada E.,Yonath,female
-802,2009,,,literature,Herta,Müller,female
-803,2009,,,peace,Barack H.,Obama,male
+802,2009,ROU,,literature,Herta,Müller,female
+803,2009,USA,,peace,Barack H.,Obama,male
 804,2009,USA,"Bloomington, IN",economics,Elinor,Ostrom,female
 805,2009,USA,"Berkeley, CA",economics,Oliver E.,Williamson,male
 806,2010,GBR,Cambridge,medicine,Robert G.,Edwards,male
@@ -810,8 +810,8 @@ id,year,country,city,category,firstname,surname,gender
 809,2010,USA,,chemistry,Richard F.,Heck,male
 810,2010,USA,"West Lafayette, IN",chemistry,Ei-ichi,Negishi,male
 811,2010,JPN,Sapporo,chemistry,Akira,Suzuki,male
-812,2010,,,literature,Mario,Vargas Llosa,male
-813,2010,,,peace,Liu,Xiaobo,male
+812,2010,PER,,literature,Mario,Vargas Llosa,male
+813,2010,CHN,,peace,Liu,Xiaobo,male
 814,2010,USA,"Cambridge, MA",economics,Peter A.,Diamond,male
 815,2010,USA,"Evanston, IL",economics,Dale T.,Mortensen,male
 816,2010,GBR,London,economics,Christopher A.,Pissarides,male
@@ -821,10 +821,10 @@ id,year,country,city,category,firstname,surname,gender
 820,2011,AUS,Weston Creek,physics,Brian P.,Schmidt,male
 821,2011,USA,"Baltimore, MD",physics,Adam G.,Riess,male
 822,2011,ISR,Haifa,chemistry,Dan,Shechtman,male
-823,2011,,,literature,Tomas,Tranströmer,male
-824,2011,,,peace,Ellen,Johnson Sirleaf,female
-825,2011,,,peace,Leymah,Gbowee,female
-826,2011,,,peace,Tawakkol,Karman,female
+823,2011,SWE,,literature,Tomas,Tranströmer,male
+824,2011,LBR,,peace,Ellen,Johnson Sirleaf,female
+825,2011,LBR,,peace,Leymah,Gbowee,female
+826,2011,YEM,,peace,Tawakkol,Karman,female
 827,2011,USA,"New York, NY",economics,Thomas J.,Sargent,male
 828,2011,USA,"Princeton, NJ",economics,Christopher A.,Sims,male
 829,2012,GBR,Cambridge,medicine,Sir John B.,Gurdon,male
@@ -833,7 +833,7 @@ id,year,country,city,category,firstname,surname,gender
 832,2012,USA,"Boulder, CO",physics,David J.,Wineland,male
 833,2012,,,chemistry,Robert J.,Lefkowitz,male
 834,2012,USA,"Stanford, CA",chemistry,Brian K.,Kobilka,male
-835,2012,,,literature,Mo,Yan,male
+835,2012,CHN,,literature,Mo,Yan,male
 836,2012,USA,"Cambridge, MA",economics,Alvin E.,Roth,male
 837,2012,USA,"Los Angeles, CA",economics,Lloyd S.,Shapley,male
 838,2013,USA,"New Haven, CT",medicine,James E.,Rothman,male
@@ -844,7 +844,7 @@ id,year,country,city,category,firstname,surname,gender
 843,2013,FRA,Strasbourg,chemistry,Martin,Karplus,male
 844,2013,USA,"Stanford, CA",chemistry,Michael,Levitt,male
 845,2013,USA,"Los Angeles, CA",chemistry,Arieh,Warshel,male
-846,2013,,,literature,Alice,Munro,female
+846,2013,CAN,,literature,Alice,Munro,female
 847,2013,USA,"Chicago, IL",economics,Eugene F.,Fama,male
 848,2013,USA,"Chicago, IL",economics,Lars Peter,Hansen,male
 849,2013,USA,"New Haven, CT",economics,Robert J.,Shiller,male
@@ -857,9 +857,9 @@ id,year,country,city,category,firstname,surname,gender
 856,2014,USA,"Ashburn, VA",chemistry,Eric,Betzig,male
 857,2014,DEU,Göttingen,chemistry,Stefan W.,Hell,male
 858,2014,USA,"Stanford, CA",chemistry,William E.,Moerner,male
-859,2014,,,literature,Patrick,Modiano,male
-860,2014,,,peace,Kailash,Satyarthi,male
-861,2014,,,peace,Malala,Yousafzai,female
+859,2014,FRA,,literature,Patrick,Modiano,male
+860,2014,IND,,peace,Kailash,Satyarthi,male
+861,2014,PAK,,peace,Malala,Yousafzai,female
 862,2014,FRA,Toulouse,economics,Jean,Tirole,male
 863,2015,USA,"Madison, NJ",medicine,William C.,Campbell,male
 864,2015,JPN,Tokyo,medicine,Satoshi,Ōmura,male
@@ -869,7 +869,7 @@ id,year,country,city,category,firstname,surname,gender
 868,2015,GBR,Hertfordshire,chemistry,Tomas,Lindahl,male
 869,2015,USA,"Durham, NC",chemistry,Paul,Modrich,male
 870,2015,USA,"Chapel Hill, NC",chemistry,Aziz,Sancar,male
-871,2015,,,literature,Svetlana,Alexievich,female
+871,2015,UKR,,literature,Svetlana,Alexievich,female
 872,2015,USA,"Princeton, NJ",economics,Angus,Deaton,male
 873,2016,JPN,Tokyo,medicine,Yoshinori,Ohsumi,male
 874,2016,USA,"Seattle, WA",physics,David J.,Thouless,male
@@ -878,15 +878,15 @@ id,year,country,city,category,firstname,surname,gender
 877,2016,FRA,Strasbourg,chemistry,Jean-Pierre,Sauvage,male
 878,2016,USA,"Evanston, IL",chemistry,Sir J. Fraser,Stoddart,male
 879,2016,,Groningen,chemistry,Bernard L.,Feringa,male
-880,2016,,,peace,Juan Manuel,Santos,male
+880,2016,COL,,peace,Juan Manuel,Santos,male
 881,2016,USA,"Cambridge, MA",economics,Oliver,Hart,male
 882,2016,USA,"Cambridge, MA",economics,Bengt,Holmström,male
-883,2016,,,literature,Bob,Dylan,male
+883,2016,USA,,literature,Bob,Dylan,male
 884,2017,,,physics,Rainer,Weiss,male
 885,2017,,,physics,Barry C.,Barish,male
 886,2017,,,physics,Kip S.,Thorne,male
 887,2017,CHE,Lausanne,chemistry,Jacques,Dubochet,male
 888,2017,USA,"New York, NY",chemistry,Joachim,Frank,male
 889,2017,GBR,Cambridge,chemistry,Richard,Henderson,male
-890,2017,,,literature,Kazuo,Ishiguro,male
+890,2017,JPN,,literature,Kazuo,Ishiguro,male
 891,2017,USA,"Chicago, IL",economics,Richard H.,Thaler,male

@@ -53,8 +53,11 @@ function createCSV(context) {
         const year = context.laureates[i].prizes[j].year;
         const category = context.laureates[i].prizes[j].category;
         let country;
-        if (context.laureates[i].prizes[j].affiliations[0].country === 'USA') {
-          country = context.laureates[i].prizes[j].affiliations[0].country;
+        if (context.laureates[i].prizes[j].affiliations[0] <= 0) {
+          country = countries.alpha2ToAlpha3(context.laureates[i].bornCountryCode);
+        }
+        else if (context.laureates[i].prizes[j].affiliations[0].country === 'USA') {
+          country = 'USA';
         } else {
           country = countries.getAlpha3Code(context.laureates[i].prizes[j].affiliations[0].country, 'en');
         }
