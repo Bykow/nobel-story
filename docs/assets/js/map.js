@@ -91,11 +91,11 @@ function ready(error, map) {
 
   function initSlider() {
     let values;
-    let min = 1900,
-      max = 2020;
-    const interval = [[1900, 1938], [1938, 1945], [1945, 1970], [1970, 2000], [2000, 2017]];
+    let min = 1901,
+      max = 2017;
+    const interval = [[1901, 1938], [1938, 1945], [1945, 1970], [1970, 2000], [2000, 2017]];
     let i = 0;
-    const maxCarousel = 4;
+    const maxCarousel = 5;
 
     const slider = document.getElementById('sliderDouble');
 
@@ -126,10 +126,14 @@ function ready(error, map) {
 
     slider.noUiSlider.on('slide', () => {
       values = slider.noUiSlider.get();
-      per_year.filter(values);
+      console.log(values);
+      if (values[0] === values[1]) {
+        per_year.filterExact(values[0]);
+      } else {
+        per_year.filterRange(values);
+      }
       render();
     });
-
 
 
     $('#DemoCarousel').bind('slide.bs.carousel', (e) => {
@@ -142,9 +146,7 @@ function ready(error, map) {
       slider.noUiSlider.set(interval[i]);
       per_year.filter(interval[i]);
       render();
-
-      console.log(`slide: ${e.direction} i = ${i}`);
-    });
+      });
 
     // first render with first interval for stroy
     per_year.filter(interval[i]);
