@@ -3170,7 +3170,7 @@ h5,
     font-size: 1.57em;
     line-height: 1.4em;
     margin-bottom: 15px;
-    margin-left: 5px;
+    margin-left: 10px;
     margin-top: 5px;
 }
 
@@ -3179,12 +3179,15 @@ h6,
     font-size: 1em;
     font-weight: 700;
     text-transform: uppercase;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    margin-top: 5px;
 }
 
 p {
     line-height: 1.61em;
     margin-bottom: 15px;
-    margin-left: 5px;
+    margin-left: 10px;
 }
 
 .description p,
@@ -7554,6 +7557,10 @@ Created using IcoMoon - icomoon.io
 
 .carousel-indicators .active {
     background-color: #000000;
+}
+
+.carousel-inner {
+    height: 200px;
 }
 
 .carousel-indicators li {
