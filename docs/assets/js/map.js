@@ -93,7 +93,7 @@ function ready(error, map) {
     let values;
     let min = 1901,
       max = 2017;
-    const interval = [[1901, 1938], [1938, 1945], [1945, 1970], [1970, 2000], [2000, 2017]];
+    const interval = [[1901, 1938], [1938, 1945], [1945, 1970], [1970, 2000], [2000, 2017], [1901, 2017]];
     let i = 0;
     const maxCarousel = 5;
 
