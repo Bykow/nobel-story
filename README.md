@@ -1,2 +1,3 @@
 # nobel-story
-Digital Story around Nobel Prices
+Digital Story around Nobel Prizes
+

@@ -36,7 +36,7 @@ function fetchNobelPrizes(context) {
 function createCSV(context) {
   console.log('Creating CSV');
   return new Promise((resolve) => {
-    writer.pipe(fs.createWriteStream('out.csv'));
+    writer.pipe(fs.createWriteStream('../docs/data/out.csv'));
     let id = 0;
     for (const i in context.laureates) {
       if (context.laureates[i].born === '0000-00-00') {
