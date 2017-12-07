@@ -472,7 +472,7 @@
 
 .noUi-pips {
     position: absolute;
-    color: #999;
+    color: #FF4C40;
 }
 
 
@@ -612,7 +612,7 @@
 
 .slider.slider-primary .noUi-connect,
 .slider.slider-primary.noUi-connect {
-    background-color: #f96332;
+    background-color: #ff5555;
 }
 
 .slider.slider-primary.noUi-target {
@@ -620,7 +620,7 @@
 }
 
 .slider.slider-primary .noUi-handle {
-    background-color: #f96332;
+    background-color: #ff5555;
 }
 
 .slider.slider-info .noUi-connect,
@@ -7530,3 +7530,35 @@ Created using IcoMoon - icomoon.io
         transform: translateY(-50%);
     }
 }
+
+.body {
+    background-color: #333333;
+}
+
+.carousel-content {
+    color:black;
+    display:flex;
+    align-items:center;
+}
+
+.carousel-control-prev {
+    color: #000000;
+}
+.carousel-control-next {
+    color: #000000;
+}
+
+.carousel-indicators .active {
+    background-color: #000000;
+}
+
+.carousel-indicators li {
+    background-color: rgba(0, 0, 0, .3);
+}
+
+#DemoCarousel {
+    width: 100%;
+    height: auto;
+    padding: 100px;
+}
+
