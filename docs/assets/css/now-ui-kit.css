@@ -3170,8 +3170,8 @@ h5,
     font-size: 1.57em;
     line-height: 1.4em;
     margin-bottom: 15px;
-    margin-left: 10px;
-    margin-top: 5px;
+    margin-left: 15px;
+    margin-top: 10px;
 }
 
 h6,
@@ -3187,7 +3187,7 @@ h6,
 p {
     line-height: 1.61em;
     margin-bottom: 15px;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 
 .description p,
