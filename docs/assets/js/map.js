@@ -1,3 +1,5 @@
+const d3 = window.d3;
+
 const svg = d3.select('#map').append('svg');
 
 const nobelPerCountry = d3.map();
@@ -24,15 +26,15 @@ const div = d3.select('body').append('div')
   .attr('class', 'maptooltip');
 
 const nobel = crossfilter(),
-  per_country = nobel.dimension(d => d.country),
-  per_countries = per_country.group(),
-  per_year = nobel.dimension(d => d.year);
+  perCountry = nobel.dimension(d => d.country),
+  perCountries = perCountry.group(),
+  perYear = nobel.dimension(d => d.year);
 
 d3.queue()
   .defer(d3.json, './assets/topojson/world/countries.json')
   .defer(d3.csv, './data/out.csv', (d) => {
     for (const propertyName in d) {
-      if (propertyName == 'id' || propertyName == 'year') {
+      if (propertyName === 'id' || propertyName === 'year') {
         d[propertyName] = +d[propertyName];
       } else {
         continue;
@@ -56,7 +58,7 @@ function ready(error, map) {
   initSlider();
 
   function render() {
-    const temp = per_countries.all().reduce((obj, c) => obj.set(c.key, c.value), d3.map());
+    const temp = perCountries.all().reduce((obj, c) => obj.set(c.key, c.value), d3.map());
     svg.attr('class', 'country')
       .selectAll('path')
       .attr('fill', (d) => {
@@ -84,9 +86,10 @@ function ready(error, map) {
 
   function initSlider() {
     let values;
-    let min = 1901,
-      max = 2017;
-    const interval = [[1901, 1938], [1938, 1945], [1945, 1970], [1970, 2000], [2000, 2017], [1901, 2017]];
+    const min = 1901;
+    const max = 2017;
+    const interval = [[1901, 1938], [1938, 1945], [1945, 1970],
+      [1970, 2000], [2000, 2017], [1901, 2017]];
     let i = 0;
     const maxCarousel = 5;
 
@@ -121,9 +124,9 @@ function ready(error, map) {
       values = slider.noUiSlider.get();
       console.log(values);
       if (values[0] === values[1]) {
-        per_year.filterExact(values[0]);
+        perYear.filterExact(values[0]);
       } else {
-        per_year.filterRange(values);
+        perYear.filterRange(values);
       }
       render();
     });
@@ -137,12 +140,12 @@ function ready(error, map) {
       }
 
       slider.noUiSlider.set(interval[i]);
-      per_year.filter(interval[i]);
+      perYear.filter(interval[i]);
       render();
     });
 
     // first render with first interval for stroy
-    per_year.filter(interval[i]);
+    perYear.filter(interval[i]);
     render();
   }
 }
