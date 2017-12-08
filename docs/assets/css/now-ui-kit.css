@@ -3171,6 +3171,7 @@ h5,
     line-height: 1.4em;
     margin-bottom: 15px;
     margin-left: 15px;
+    margin-right: 15px;
     margin-top: 10px;
 }
 
@@ -3188,6 +3189,7 @@ p {
     line-height: 1.61em;
     margin-bottom: 15px;
     margin-left: 15px;
+    margin-right: 15px;
 }
 
 .description p,
@@ -7571,4 +7573,16 @@ Created using IcoMoon - icomoon.io
     width: 100%;
     height: auto;
     padding: 100px;
+}
+
+.maptooltip {
+    position: absolute;
+    text-align: center;
+    width: 60px;
+    padding: 2px;
+    font: 12px sans-serif;
+    background: slategrey;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
 }

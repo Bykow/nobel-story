@@ -1,13 +1,8 @@
-let width = 960,
-  height = 500;
-
-const svg = d3.select('#map').append('svg')
-  .attr('width', width)
-  .attr('height', height);
+const svg = d3.select('#map').append('svg');
 
 const nobelPerCountry = d3.map();
 
-const domain = [0, 1, 2, 3, 4, 5, 7, 10, 20, 30, 50, 150, 300];
+const domain = [0, 1, 2, 3, 4, 5, 7, 10, 20, 30, 60, 300];
 const generator = d3.scaleLinear()
   .domain([0, (domain.length - 1) / 2, domain.length - 1])
   .range([
@@ -26,11 +21,9 @@ const projection = d3.geoEquirectangular();
 const path = d3.geoPath().projection(projection);
 
 const div = d3.select('body').append('div')
-  .attr('class', 'tooltip')
-  .style('background-color', 'grey')
-  .style('opacity', 0.6);
+  .attr('class', 'maptooltip');
 
-let nobel = crossfilter(),
+const nobel = crossfilter(),
   per_country = nobel.dimension(d => d.country),
   per_countries = per_country.group(),
   per_year = nobel.dimension(d => d.year);
@@ -146,7 +139,7 @@ function ready(error, map) {
       slider.noUiSlider.set(interval[i]);
       per_year.filter(interval[i]);
       render();
-      });
+    });
 
     // first render with first interval for stroy
     per_year.filter(interval[i]);
