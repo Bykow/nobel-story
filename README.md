@@ -9,7 +9,7 @@ You will find the API I used to find my data of those prizes [here](http://api.n
 In "fetchNobel.js" I preprocessed my data to create an out.csv file that I can use with D3 later on.
 
 ## Website
-You can find the web site here: [Nobel Story](http://api.nobelprize.org/v1/laureate.json).
+You can find the web site here: [Nobel Story](https://bykow.github.io/nobel-story/).
 
 I used the [D3 library](https://d3js.org/) to make the map appear, also used a [Creative Tim](https://www.creative-tim.com/) Bootstrap Template
 to make the website look better. 
