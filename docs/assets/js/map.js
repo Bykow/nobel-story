@@ -4,6 +4,7 @@ const svg = d3.select('#map').append('svg');
 
 const nobelPerCountry = d3.map();
 
+// Colors range and domain
 const domain = [0, 1, 2, 3, 4, 5, 7, 10, 20, 30, 60, 300];
 const generator = d3.scaleLinear()
   .domain([0, (domain.length - 1) / 2, domain.length - 1])
@@ -25,11 +26,13 @@ const path = d3.geoPath().projection(projection);
 const div = d3.select('body').append('div')
   .attr('class', 'maptooltip');
 
+// Cross Filter dimension
 const nobel = crossfilter(),
   perCountry = nobel.dimension(d => d.country),
   perCountries = perCountry.group(),
   perYear = nobel.dimension(d => d.year);
 
+// Read Data
 d3.queue()
   .defer(d3.json, './assets/topojson/world/countries.json')
   .defer(d3.csv, './data/out.csv', (d) => {
@@ -55,6 +58,7 @@ function ready(error, map) {
     .attr('d', path)
     .style('opacity', 0.8);
 
+  // Create the slider
   initSlider();
 
   function render() {
@@ -67,6 +71,7 @@ function ready(error, map) {
         }
         return color(temp.get(d.id));
       })
+      // Tooltip
       .on('mouseover', function (d) {
         d3.select(this).transition().duration(300).style('opacity', 1);
         div.transition()
@@ -120,6 +125,7 @@ function ready(error, map) {
       animationDuration: 300,
     });
 
+    // Update of map with slider data
     slider.noUiSlider.on('slide', () => {
       values = slider.noUiSlider.get();
       console.log(values);
@@ -131,7 +137,7 @@ function ready(error, map) {
       render();
     });
 
-
+    // Carousel of text
     $('#DemoCarousel').bind('slide.bs.carousel', (e) => {
       if (e.direction === 'left') {
         i === maxCarousel ? i = 0 : i++;
@@ -139,6 +145,7 @@ function ready(error, map) {
         i === 0 ? i = maxCarousel : i--;
       }
 
+      // Setting slider Data with carousel
       slider.noUiSlider.set(interval[i]);
       perYear.filter(interval[i]);
       render();

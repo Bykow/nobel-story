@@ -39,6 +39,7 @@ function createCSV(context) {
     writer.pipe(fs.createWriteStream('../docs/data/out.csv'));
     let id = 0;
     for (const i in context.laureates) {
+      // Skipping empty laureates in API
       if (context.laureates[i].born === '0000-00-00') {
         console.log(`Skiping n°${i}`);
         continue;
@@ -53,11 +54,12 @@ function createCSV(context) {
         const year = context.laureates[i].prizes[j].year;
         const category = context.laureates[i].prizes[j].category;
         let country;
+        // If a laureate does not have an affiliation, will take it's bornCountry
         if (context.laureates[i].prizes[j].affiliations[0] <= 0) {
           country = countries.alpha2ToAlpha3(context.laureates[i].bornCountryCode);
         }
         else if (context.laureates[i].prizes[j].affiliations[0].country === 'USA') {
-          country = 'USA';
+          country = 'USA'; // Can't convert from USA to USA, so need to skip it
         } else {
           country = countries.getAlpha3Code(context.laureates[i].prizes[j].affiliations[0].country, 'en');
         }
